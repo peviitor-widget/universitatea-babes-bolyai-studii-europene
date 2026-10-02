@@ -1,71 +1,105 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-accesare-fonduri-europene-35",
-    "title": "CONSULTANT ACCESARE FONDURI EUROPENE",
-    "company": "CRONOS CONSULTING SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-nerambursabile-junior-mid",
+    "title": "Consultant Fonduri Nerambursabile (Junior – Mid)",
+    "company": "ADMINISTRATIV BUSINESS CONSULTING S.R.L.",
     "location": [
-      "Strada Lascar Catargi, nr. 62, Iași, Judetul Iași, Romania"
+      "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T16:00:20.152Z",
+    "date": "2026-10-01T15:23:50.395Z",
     "status": "scraped",
     "tags": [
       "accesare fonduri europene",
       "management de proiect"
     ],
     "matchPercentage": 90,
-    "reason": "Poziție dedicată accesării fonduri europene, potrivită unui absolvent care vrea să lucreze cu PNRR/POR și proiecte UE."
+    "reason": "Rol junior-mid în accesarea fondurilor nerambursabile corespunde direct specializării în scrierea și gestionarea cererilor de finanțare europeană."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-219",
-    "title": "Consultant fonduri europene",
-    "company": "BUSINESS PROJECT CONSULTING SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-redactor-sef",
+    "title": "redactor/ Redactor șef",
+    "company": "ZIARUL DE STIRI COMENTATE SRL",
     "location": [
-      "Pitești, Romania"
+      "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:54:38.709Z",
+    "date": "2026-10-01T15:17:38.694Z",
     "status": "scraped",
     "tags": [
-      "accesare fonduri europene",
-      "management de proiect"
-    ],
-    "matchPercentage": 89,
-    "reason": "Consultanță în fonduri europene, rol direct corespunzător pregătirii tale în scrierea și gestionarea proiectelor finanțate din surse externe."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-specialist-proiectare",
-    "title": "Consultant fonduri europene/ Specialist proiectare",
-    "company": "S &amp; V CONSULTING SRL",
-    "location": [
-      "Bulevardul Dacia 97B, PARTER, Craiova, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T16:00:25.070Z",
-    "status": "scraped",
-    "tags": [
-      "accesare fonduri europene",
-      "cereri de finanțare"
-    ],
-    "matchPercentage": 88,
-    "reason": "Consultant în fonduri europene la nivel entry: redactare cereri de finanțare și consultanță pentru clienți, exact nucleul competențelor tale."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-220",
-    "title": "Consultant Fonduri Europene",
-    "company": "INCEPTA CONSULTING  SRL",
-    "location": [
-      "Aleea Barajul Iezeru 6A, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:50:18.011Z",
-    "status": "scraped",
-    "tags": [
-      "accesare fonduri europene",
-      "management de proiect"
+      "jurnalism",
+      "analiză de conținut"
     ],
     "matchPercentage": 85,
-    "reason": "Consultant fonduri europene cu nivel nespecificat și domeniu direct compatibil cu scrierea cererilor și monitorizarea proiectelor."
+    "reason": "Jobul se potrivește domeniului jurnalism și comunicare internațională, având sarcini legate de discurs politic și actualitate."
+  },
+  {
+    "url": "https://www.ejobs.ro/user/locuri-de-munca/consultant-fonduri-europene-scriere-si-implementare-proiecte/1988214",
+    "title": "Consultant Fonduri Europene Scriere și Implementare Proiecte",
+    "company": "AHMED DELIVERY S.R.L. S.R.L.",
+    "location": [
+      "Craiova, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:24:47.583Z",
+    "status": "scraped",
+    "tags": [
+      "scriere cereri",
+      "management proiect"
+    ],
+    "matchPercentage": 84,
+    "reason": "Redactarea și implementarea proiectelor cu finanțare nerambursabilă, de la idee la finalizare, corespunde exact competențelor tale de management de proiect european."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-nerambursabile-36",
+    "title": "Consultant fonduri europene nerambursabile",
+    "company": "ANALITIQ MANAGEMENT S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:26:56.547Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "management proiect"
+    ],
+    "matchPercentage": 70,
+    "reason": "Consultanță în proiecte cu finanțare nerambursabilă, relevantă pentru cereri de finanțare și management de proiect, nivel neclarificat."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
+    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
+    "company": "UP CIPTRONIC SRL",
+    "location": [
+      "Bucuresti sectorul 1, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:21:59.628Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri structurale",
+      "analiză de proiect"
+    ],
+    "matchPercentage": 70,
+    "reason": "Domeniul (fonduri structurale și de coeziune) se potrivește perfect, dar titlul de „Expert” sugerează un nivel senior, deși se cer sub 3 ani de experiență."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-81",
+    "title": "Redactor",
+    "company": "MONITORUL OFICIAL RA",
+    "location": [
+      "Strada Parcului 65, Bucuresti sector 1, 012329, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-01T15:24:47.583Z",
+    "status": "scraped",
+    "tags": [
+      "drept UE",
+      "redactare"
+    ],
+    "matchPercentage": 70,
+    "reason": "Activitatea de redactare la Monitorul Oficial poate utiliza interpretarea legislativă, dar sarcinile nu sunt clar axate pe politici europene."
   },
   {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
@@ -75,115 +109,64 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:52:35.892Z",
+    "date": "2026-10-01T15:28:07.042Z",
     "status": "scraped",
     "tags": [
-      "accesare fonduri europene",
-      "analiza procesului de integrare"
+      "fonduri europene",
+      "scriere cereri"
     ],
-    "matchPercentage": 84,
-    "reason": "Consultant fonduri europene, sarcinile de identificare a surselor de finanțare și scriere a documentației corespund direct pregătirii tale."
+    "matchPercentage": 68,
+    "reason": "Consultanță în fonduri europene corespunde direct competențelor de accesare a finanțării, deși nivelul nu este precizat."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-junior-mid-senior",
-    "title": "CONSULTANT FONDURI (Junior / Mid / Senior)",
-    "company": "SALT INN PRODUCTION SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-specialist-proiectare",
+    "title": "Consultant fonduri europene/ Specialist proiectare",
+    "company": "S &amp; V CONSULTING SRL",
     "location": [
-      "Iași, Romania"
+      "Bulevardul Dacia 97B, PARTER, Craiova, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:59:34.893Z",
+    "date": "2026-10-01T15:26:53.369Z",
     "status": "scraped",
     "tags": [
-      "accesare fonduri europene",
-      "management de proiect"
+      "fonduri europene",
+      "elaborare proiecte"
     ],
-    "matchPercentage": 82,
-    "reason": "Consultant fonduri cu opțiuni de nivel junior/mid, în acord direct cu scrierea cererilor de finanțare și gestionarea proiectelor finanțate."
+    "matchPercentage": 68,
+    "reason": "Combină consultanță pe fonduri europene și proiectare, în linie cu competențele de analiză și documentare a proiectelor finanțate."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-2",
-    "title": "Consultant Fonduri Europene Junior/Senior Pitesti",
-    "company": "FORUM PROIECT INVEST SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-234",
+    "title": "Consultant Fonduri Europene",
+    "company": "BMH PROIECTE FONDURI EUROPENE S.R.L.",
     "location": [
-      "Strada Victoriei 13, Pitești 110115, Romania"
+      "Craiova, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T15:51:59.248Z",
+    "date": "2026-10-01T15:25:09.868Z",
     "status": "scraped",
     "tags": [
-      "accesare fonduri europene",
-      "elaborarea proiectelor europene"
+      "fonduri europene",
+      "scriere cereri"
     ],
-    "matchPercentage": 80,
-    "reason": "Variantă junior inclusă în anunț, domeniul fondurilor europene se potrivește cu experiența ta în programe și proiecte europene."
+    "matchPercentage": 68,
+    "reason": "Rol de consultant fonduri europene, direct legat de scrierea și monitorizarea proiectelor finanțate, deși nivelul nu este precizat."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/flex-program-assistant-bucharest-romania",
-    "title": "FLEX Program Assistant - Bucharest, Romania",
-    "company": "GATE FOR EDUCATION S.R.L.",
-    "location": [
-      "București, București, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T16:01:06.103Z",
-    "status": "scraped",
-    "tags": [
-      "management de proiect",
-      "consultanta fonduri"
-    ],
-    "matchPercentage": 72,
-    "reason": "Asistent de program pentru un program internațional de schimburi finanțat din granturi – administratie de proiect, monitorizare și comunicare instituțională la nivel entry."
-  },
-  {
-    "url": "https://multijobs.ro/job/pmo-project-analyst-people-culture-bucuresti-regim-hibrid/6248",
-    "title": "PMO/ Project Analyst - People &amp; Culture – București, Regim hibrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-achizitii-public",
+    "title": "Consultant Achiziții Public",
+    "company": "IP GO INVENTURES INCORPORATED SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-09-30T16:01:07.758Z",
+    "date": "2026-10-01T15:28:29.679Z",
     "status": "scraped",
     "tags": [
-      "management de proiect",
-      "analiza bugetara"
+      "consultanță",
+      "drept UE"
     ],
     "matchPercentage": 66,
-    "reason": "Pozitie entry-level de PMO/analist de proiect, cu raportare si urmarire termene, dar fara componenta de proiecte europene."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3383911",
-    "title": "ASISTENT RELATII PUBLICE SI COMUNICARE (STUDII MEDII)",
-    "company": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE ÎN SUDURĂ ŞI ÎNCERCĂRI DE MATERIALE - ISIM TIMIŞOARA",
-    "location": [
-      "Timișoara, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:56:11.025Z",
-    "status": "scraped",
-    "tags": [
-      "comunicare instituțională",
-      "relații cu presa"
-    ],
-    "matchPercentage": 66,
-    "reason": "Asistent relații publice într-un institut de cercetare: potrivire parțială pentru comunicare instituțională și relații cu presa, la nivel de asistent."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-culegeri-de-legislatie",
-    "title": "Redactor culegeri de legislație",
-    "company": "UNIVERSUL PLANTAȚIILOR S.R.L.",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-09-30T15:46:46.203Z",
-    "status": "scraped",
-    "tags": [
-      "interpretare legislativa",
-      "redactare de rapoarte"
-    ],
-    "matchPercentage": 64,
-    "reason": "Redactare si culegere de legislatie relevanta pentru interpretarea legislativa si redactarea de texte normative, post entry-level la distanta, insa fara tangenta directa cu proiectele europene."
+    "reason": "Achiziții publice se încadrează în consultanță și administrare publică cu element de drept și finanțare europeană, la nivel de consultant."
   }
 ]
