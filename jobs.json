@@ -1,206 +1,121 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-nerambursabile-36",
-    "title": "Consultant fonduri europene nerambursabile",
-    "company": "ANALITIQ MANAGEMENT S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
+    "title": "Specialist fonduri europene",
+    "company": "BEST SMART CONSULTING SRL",
     "location": [
-      "Cluj-Napoca, Romania"
+      "Mioveni, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T14:13:42.872Z",
+    "date": "2026-10-05T17:11:03.546Z",
+    "status": "scraped",
+    "tags": [
+      "accesare fonduri europene",
+      "management proiect european"
+    ],
+    "matchPercentage": 88,
+    "reason": "Rolul de specialist fonduri europene folosește direct competențele de scriere cereri de finanțare, consultanță și management de proiecte europene, la nivel entry."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
+    "title": "consultanta fonduri europene",
+    "company": "JUNIOR GROUP SRL",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T16:56:32.699Z",
     "status": "scraped",
     "tags": [
       "fonduri europene",
       "consultanță"
     ],
-    "matchPercentage": 90,
-    "reason": "Domeniul de consultanță în fonduri europene nerambursabile corespunde direct competențelor de accesare a fondurilor UE."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-nerambursabile-73",
-    "title": "Consultant fonduri nerambursabile",
-    "company": "MC URBAN ENGINEERING S.R.L.",
-    "location": [
-      "Bulevardul Constructorilor nr. 20A, Etajul 2, Sector 6, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:10:56.764Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "management proiect"
-    ],
     "matchPercentage": 88,
-    "reason": "Consultant în fonduri nerambursabile: identificarea surselor de finanțare, redactarea cererilor și gestionarea proiectelor finanțate din fonduri europene, la nivel de intrare."
+    "reason": "Consultanță în fonduri europene – potrivire directă cu competența de accesare și scriere a cererilor de finanțare."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-226",
-    "title": "Consultant Fonduri Europene",
-    "company": "ACDA CONSULTING S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-consultanta-proiecte",
+    "title": "Specialist consultanță proiecte",
+    "company": "NIRAL TIME S.R.L.",
+    "location": [
+      "Strada Magura, Focsani, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-05T17:10:12.737Z",
+    "status": "scraped",
+    "tags": [
+      "management proiect",
+      "consultanță finanțare"
+    ],
+    "matchPercentage": 70,
+    "reason": "Consultanță de proiecte folosește direct competențele de management și scriere a cererilor de finanțare."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272377/ABC-Human-Capital/EXPERT-ACHIZITII-PUBLICE",
+    "title": "EXPERT ACHIZITII PUBLICE",
+    "company": "ABC HUMAN CAPITAL SRL",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T14:02:30.386Z",
+    "date": "2026-10-05T17:10:44.525Z",
     "status": "scraped",
     "tags": [
-      "cereri de finantare",
-      "consultanta fonduri"
+      "administrație publică",
+      "interpretare legislativă"
     ],
-    "matchPercentage": 86,
-    "reason": "Consultanță pe fonduri europene cu nivel nespecificat, în acord direct cu scrierea și gestionarea cererilor de finanțare."
+    "matchPercentage": 68,
+    "reason": "Achizițiile publice folosesc direct interpretarea legislativă și administrarea publică, competențe centrale ale profilului."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-219",
-    "title": "Consultant fonduri europene",
-    "company": "BUSINESS PROJECT CONSULTING SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396740",
+    "title": "EXPERT ACHIZITII PUBPLICE",
+    "company": "ALLCRISGUARD SRL",
     "location": [
-      "Pitești, Romania"
+      "Preajba mare, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T14:01:35.880Z",
+    "date": "2026-10-05T17:10:38.599Z",
     "status": "scraped",
     "tags": [
-      "cereri de finantare",
-      "management proiect"
+      "administrație publică",
+      "interpretare legislativă"
     ],
-    "matchPercentage": 85,
-    "reason": "Consultant fonduri europene la o firmă de consultanță în proiecte, corespunde exact domeniului de accesare a finanțării europene."
+    "matchPercentage": 65,
+    "reason": "Achiziții publice la nivel entry-level, potrivit pentru legislație și administrație publică."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
-    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
-    "company": "UP CIPTRONIC SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/communication-assistant",
+    "title": "Communication Assistant",
+    "company": "FUNDATIA SRL",
     "location": [
-      "Bucuresti sectorul 1, Romania"
+      "Piata Pache Protopopescu, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T14:04:11.971Z",
+    "date": "2026-10-05T17:10:56.724Z",
     "status": "scraped",
     "tags": [
-      "fonduri structurale",
-      "coeziune europeană"
+      "comunicare instituțională",
+      "comunicare internațională"
     ],
-    "matchPercentage": 84,
-    "reason": "Accesare la fonduri structurale și de coeziune europene, cu cerință de sub 3 ani experiență, deci potrivire directă de domeniu și nivel."
+    "matchPercentage": 62,
+    "reason": "Asistent comunicare într-o ONG internațională, potrivire parțială cu domeniul de comunicare instituțională și internațională la nivel de intrare."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-expert-fonduri-europene-8",
-    "title": "Consultant / Expert fonduri europene",
-    "company": "INCUBCENTER S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-manager-consultanta-in-infrastructura",
+    "title": "Asistent Manager Consultanță in Infrastructură",
+    "company": "TRIANGLE A.G. S.R.L.",
     "location": [
-      "Târgu Mureș, Romania"
+      "Strada Iovita 11, Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-04T14:05:49.459Z",
+    "date": "2026-10-05T17:10:59.215Z",
     "status": "scraped",
     "tags": [
-      "fonduri europene",
-      "management proiecte"
+      "management proiect",
+      "consultanță finanțare"
     ],
-    "matchPercentage": 78,
-    "reason": "Consultanță și accesare a fondurilor europene, exact domeniul tău, cu nivel de intrare plausibil, deși titlul de „expert” poate implica experiență."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-culegeri-de-legislatie",
-    "title": "Redactor culegeri de legislație",
-    "company": "UNIVERSUL PLANTAȚIILOR S.R.L.",
-    "location": [
-      "Remote, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-01T15:21:46.633Z",
-    "status": "scraped",
-    "tags": [
-      "interpretare legislativă",
-      "cercetare documentară"
-    ],
-    "matchPercentage": 74,
-    "reason": "Redactarea culegerilor de legislație într-o editură juridică utilizează direct cunoștințele de drept UE și constituțional, fiind un rol de documentare și sinteză legislativă."
-  },
-  {
-    "url": "https://apply.deloittece.com/en_US/careers/JobDetail/Internship-Audit-Analyst-with-Spanish-Regional-Audit-Delivery-Center-START-FROM-NOVEMBER/18002",
-    "title": "Internship Audit Analyst with Spanish | Regional Audit Delivery Center | START FROM NOVEMBER",
-    "company": "DELOITTE TAX SRL",
-    "location": [
-      "Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:11:50.268Z",
-    "status": "scraped",
-    "tags": [
-      "analiză bugetară",
-      "audit"
-    ],
-    "matchPercentage": 72,
-    "reason": "Internship în audit și analiză financiară, relevant pentru bugetărie și consultanță financiară, dar orientat fiscal-spaniol și fără legătură cu fondurile europene."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362292",
-    "title": "SPECIALIST ÎN RELATII PUBLICE",
-    "company": "MAARIF - INSTITUŢII INTERNAŢIONALE DE ÎNVĂŢĂMÂNT S.A.",
-    "location": [
-      "Bucuresti sectorul 3, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:07:49.607Z",
-    "status": "scraped",
-    "tags": [
-      "relații publice",
-      "comunicare instituțională"
-    ],
-    "matchPercentage": 72,
-    "reason": "Relații publice într-o organizație de învățământ internațională, cu experiență sub 3 ani, relevant pentru comunicare instituțională și interculturală, dar domeniu mai larg decât integrarea europeană."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-junior-mid-senior",
-    "title": "CONSULTANT FONDURI (Junior / Mid / Senior)",
-    "company": "SALT INN PRODUCTION SRL",
-    "location": [
-      "Iași, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:07:31.373Z",
-    "status": "scraped",
-    "tags": [
-      "cereri de finantare",
-      "consultanta fonduri"
-    ],
-    "matchPercentage": 70,
-    "reason": "Rol de consultanță pentru fonduri cu nivel junior/mid, direct legat de redactarea cererilor de finanțare, deși compania din industria de producție media face potrivirea mai puțin evidentă."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3389609",
-    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
-    "company": "CENTRUL DE EDUCATIE, RECREATIE SI CULTURA VERDE - CERC VERDE VOLUNTARI - ILFOV S.A.",
-    "location": [
-      "Voluntari, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T13:59:16.797Z",
-    "status": "scraped",
-    "tags": [
-      "administrație",
-      "guvernanță"
-    ],
-    "matchPercentage": 70,
-    "reason": "Se potrivește parțial domeniului administrației publice, dar sarcinile nu sunt detaliate pentru a confirma relevanța directă."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-81",
-    "title": "Redactor",
-    "company": "MONITORUL OFICIAL RA",
-    "location": [
-      "Strada Parcului 65, Bucuresti sector 1, 012329, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-04T14:10:31.081Z",
-    "status": "scraped",
-    "tags": [
-      "interpretare legislativă",
-      "comunicare instituțională"
-    ],
-    "matchPercentage": 70,
-    "reason": "Redactarea actelor normative publicate în Monitorul Oficial se apropie de interpretarea legislativă și comunicarea instituțională, la nivel de intrare."
+    "matchPercentage": 62,
+    "reason": "Consultanță în infrastructură la nivel de asistent poate implica proiecte și accesare de finanțare, dar descrierea e limitată."
   }
 ]
