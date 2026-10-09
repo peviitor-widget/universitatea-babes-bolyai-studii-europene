@@ -1,5 +1,56 @@
 [
   {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-220",
+    "title": "Consultant Fonduri Europene",
+    "company": "INCEPTA CONSULTING  SRL",
+    "location": [
+      "Aleea Barajul Iezeru 6A, Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:25:36.740Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "consultanță"
+    ],
+    "matchPercentage": 95,
+    "reason": "Consultant fonduri europene, folosește direct competențele de accesare și gestionare a finanțării UE."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-accesare-fonduri-europene-35",
+    "title": "CONSULTANT ACCESARE FONDURI EUROPENE",
+    "company": "CRONOS CONSULTING SRL",
+    "location": [
+      "Strada Lascar Catargi, nr. 62, Iași, Judetul Iași, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:21:37.386Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "consultanță"
+    ],
+    "matchPercentage": 90,
+    "reason": "Consultant accesare fonduri europene corespunde direct competențelor de identificare surse de finanțare și scriere cereri."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-proiecte-europene-4",
+    "title": "Consultant proiecte europene",
+    "company": "IDEEA STIL GRUP SRL",
+    "location": [
+      "Constanta, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:24:20.078Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "management proiecte"
+    ],
+    "matchPercentage": 88,
+    "reason": "Consultant proiecte europene folosește direct competențele de accesare fonduri și management de proiect, nivel potrivit."
+  },
+  {
     "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-215",
     "title": "CONSULTANT FONDURI EUROPENE",
     "company": "SERVCONSULT SRL",
@@ -7,133 +58,116 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:22:16.579Z",
+    "date": "2026-10-08T15:18:11.206Z",
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "consultanță"
-    ],
-    "matchPercentage": 92,
-    "reason": "Consultanță fonduri europene la nivel entry, fără experiență cerută - vizează direct competențele de accesare finanțare și elaborare cereri."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
-    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
-    "company": "UP CIPTRONIC SRL",
-    "location": [
-      "Bucuresti sectorul 1, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:27:25.342Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri structurale",
-      "management de proiect"
-    ],
-    "matchPercentage": 90,
-    "reason": "Expertiză pe fonduri structurale și de coeziune cu maxim 3 ani experiență cerută, potrivit pentru nivel de intrare."
-  },
-  {
-    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
-    "title": "consultanta fonduri europene",
-    "company": "JUNIOR GROUP SRL",
-    "location": [
-      "Constanta, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-07T15:14:19.022Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "consultanță finanțare"
+      "consultanță accesare finanțare"
     ],
     "matchPercentage": 88,
-    "reason": "Consultanța în fonduri europene se potrivește direct cu competența ta de identificare a surselor de finanțare și scriere a cererilor de finanțare."
+    "reason": "Consultanță fonduri europene entry-level (fără experiență necesară): citire ghiduri, eligibilitate, elaborare anexe, depunere cereri - competențe cheie."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
-    "title": "Specialist fonduri europene",
-    "company": "BEST SMART CONSULTING SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/expert-fonduri-europene-sector-public",
+    "title": "Expert Fonduri Europene – Sector Public",
+    "company": "ASOCIATIA ROMANA PENTRU METAPSYHHE ECHILIBRUM S.R.L.",
     "location": [
-      "Mioveni, Romania"
+      "Integral Business Center, Voluntari, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:27:27.854Z",
+    "date": "2026-10-08T15:20:38.773Z",
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "consultanță"
+      "management de proiecte europene"
     ],
-    "matchPercentage": 86,
-    "reason": "Rol direct de specialist fonduri europene, exact în zona de consultanță și accesare finanțare europeană."
+    "matchPercentage": 85,
+    "reason": "Expert fonduri europene pentru sector public - se potrivește direct cu competențele de accesare finanțare și management de proiecte europene."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-expert-fonduri-europene-8",
-    "title": "Consultant / Expert fonduri europene",
-    "company": "INCUBCENTER S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3411382",
+    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
+    "company": "ASOCIATIA FAMILIALA APOSTOL P",
     "location": [
-      "Târgu Mureș, Romania"
+      "Arpasu de jos, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:16:51.924Z",
+    "date": "2026-10-08T15:18:50.732Z",
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "consultanță"
+      "management de proiecte europene"
     ],
-    "matchPercentage": 84,
-    "reason": "Consultant/Expert fonduri europene - potrivire directă cu competențele de consultanță și scrierea cererilor de finanțare."
+    "matchPercentage": 85,
+    "reason": "Accesare fonduri structurale și de coeziune, sub 3 ani experiență cerută - potrivire directă cu nivelul și domeniul."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-nerambursabile-73",
-    "title": "Consultant fonduri nerambursabile",
-    "company": "MC URBAN ENGINEERING S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3411325",
+    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
+    "company": "DANIEL PREST AGRI S.R.L.",
     "location": [
-      "Bulevardul Constructorilor nr. 20A, Etajul 2, Sector 6, Bucuresti, Romania"
+      "Deva, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:14:38.039Z",
+    "date": "2026-10-08T15:16:56.294Z",
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "accesare finanțare"
+      "management de proiecte europene"
     ],
-    "matchPercentage": 84,
-    "reason": "Consultanță fonduri nerambursabile - domeniu principal al profilului, cu elaborare de proiecte și accesare fonduri."
+    "matchPercentage": 85,
+    "reason": "Accesare fonduri structurale UE, sub 3 ani experiență cerută - potrivire directă."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-225",
-    "title": "Consultant fonduri europene",
-    "company": "CA TERRAPARTS S.R.L.",
+    "url": "https://dreamjobs.ro/ro/job/startuphub/consultant-in-fonduri-europene-2",
+    "title": "Consultant în fonduri europene",
+    "company": "STARTUP WORKSPACE S.R.L.",
     "location": [
-      "Strada Zambilelor 39, Bucuresti, Romania"
+      "Marosvasarhely, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:17:53.571Z",
+    "date": "2026-10-08T15:17:31.201Z",
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "accesare finanțare"
+      "management de proiecte europene"
     ],
     "matchPercentage": 82,
-    "reason": "Consultanță fonduri europene - domeniu cheie pentru profil, nivel de intrare."
+    "reason": "Ciclul complet al proiectelor cu finanțare europeană (Horizon, Interreg, POR, POCU), nivel medior - potrivire directă."
   },
   {
-    "url": "https://www.ejobs.ro/user/locuri-de-munca/project-manager-proiecte-cu-finantare-europeana/99247802",
-    "title": "Project Manager - Proiecte cu finantare europeana",
-    "company": "FERMELE HOR COOPERATIVĂ AGRICOLĂ",
+    "url": "https://www.bestjobs.eu/loc-de-munca/expert-consultant-proiecte-1",
+    "title": "EXPERT/CONSULTANT proiecte",
+    "company": "ASOCIATIA GRUPULUI DE PRODUCATORI CONSORTIU DE DEZVOLTARE RURALA BORCEA-JEGALIA SRL",
     "location": [
-      "Brașov, Romania"
+      "Iași, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:15:11.311Z",
+    "date": "2026-10-08T15:25:49.282Z",
     "status": "scraped",
     "tags": [
-      "management de proiect european",
-      "monitorizare și evaluare"
+      "management de proiecte europene",
+      "fonduri europene"
     ],
-    "matchPercentage": 82,
-    "reason": "Coordonare, monitorizare și raportare a proiectelor cu finanțare europeană este chiar nucleul competențelor tale, iar 3 ani de experiență este limita superioară acceptată pentru nivel mid."
+    "matchPercentage": 78,
+    "reason": "Expert/consultant proiecte pentru dezvoltare rurală - relevant pentru management de proiecte și fonduri, dar descrierea jobului este limitată."
+  },
+  {
+    "url": "https://www.ascentjobs.ro/expert-achizitii/",
+    "title": "Expert achiziții",
+    "company": "ASCENT GROUP INTERNAŢIONAL SRL",
+    "location": [
+      "București, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:27:17.819Z",
+    "status": "scraped",
+    "tags": [
+      "accesare fonduri europene",
+      "interpretare legislativă"
+    ],
+    "matchPercentage": 76,
+    "reason": "Gestionarea achizițiilor în cadrul proiectelor cu finanțare nerambursabilă (SEAP, fonduri-UE) folosește direct competența de accesare și implementare a fondurilor europene."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-departament-vanzari",
@@ -143,13 +177,47 @@
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-07T15:24:07.217Z",
+    "date": "2026-10-08T15:17:09.056Z",
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "consultanță"
+      "consultanță accesare finanțare"
     ],
-    "matchPercentage": 74,
-    "reason": "Consultanță pe fonduri europene, domeniu potrivit, deși componenta de vânzări reduce ușor relevanța."
+    "matchPercentage": 72,
+    "reason": "Consultanță fonduri europene, dar în departament de vânzări - potrivire de domeniu cu accent comercial."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272377/ABC-Human-Capital/EXPERT-ACHIZITII-PUBLICE",
+    "title": "EXPERT ACHIZITII PUBLICE",
+    "company": "ABC HUMAN CAPITAL SRL",
+    "location": [
+      "Bucuresti, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:27:18.589Z",
+    "status": "scraped",
+    "tags": [
+      "interpretare legislativă",
+      "management de proiect"
+    ],
+    "matchPercentage": 62,
+    "reason": "Achizițiile publice se suprapun parțial cu competența de interpretare legislativă și managementul procedurilor din proiecte cu finanțare nerambursabilă."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/asistent-manager-achizitii-publice",
+    "title": "Asistent Manager - Achizitii Publice",
+    "company": "FLAROM ADVERTISING SRL",
+    "location": [
+      "contact@flarom.ro, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-08T15:26:55.622Z",
+    "status": "scraped",
+    "tags": [
+      "interpretare legislativă",
+      "management de proiect"
+    ],
+    "matchPercentage": 60,
+    "reason": "Asistență în achiziții publice, la nivel de intrare, cu relevanță parțială pentru procedurile administrative specifice administrării publice și proiectelor cu fonduri."
   }
 ]
