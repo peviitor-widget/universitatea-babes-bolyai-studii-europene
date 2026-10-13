@@ -1,88 +1,37 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-220",
-    "title": "Consultant Fonduri Europene",
-    "company": "INCEPTA CONSULTING  SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-nerambursabile-junior-mid",
+    "title": "Consultant Fonduri Nerambursabile (Junior – Mid)",
+    "company": "ADMINISTRATIV BUSINESS CONSULTING S.R.L.",
     "location": [
-      "Aleea Barajul Iezeru 6A, Bucuresti, Romania"
+      "Cluj-Napoca, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T15:08:06.373Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "management de proiect"
-    ],
-    "matchPercentage": 90,
-    "reason": "Poziția de consultant fonduri europene folosește direct competențele de accesare a fondurilor europene."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-216",
-    "title": "Consultant Fonduri Europene",
-    "company": "ALVICOLI COMERŢ SRL",
-    "location": [
-      "Strada Decebal 82, 900178 Constanta, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:06:33.897Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "programe europene"
-    ],
-    "matchPercentage": 90,
-    "reason": "Consultant fonduri europene corespunde direct domeniului de specialitate."
-  },
-  {
-    "url": "https://dreamjobs.ro/ro/job/startuphub/consultant-in-fonduri-europene-2",
-    "title": "Consultant în fonduri europene",
-    "company": "STARTUP WORKSPACE S.R.L.",
-    "location": [
-      "Marosvasarhely, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:05:10.012Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "management de proiect"
-    ],
-    "matchPercentage": 90,
-    "reason": "Consultant fonduri europene nivel medior, gestionează ciclul complet al proiectelor europene, potrivire directă."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
-    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
-    "company": "UP CIPTRONIC SRL",
-    "location": [
-      "Bucuresti sectorul 1, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:00:19.718Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri structurale",
-      "accesare finanțare"
-    ],
-    "matchPercentage": 85,
-    "reason": "Expert accesare fonduri structurale și de coeziune, sub 3 ani experiență, potrivire directă."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-219",
-    "title": "Consultant fonduri europene",
-    "company": "BUSINESS PROJECT CONSULTING SRL",
-    "location": [
-      "Pitești, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T14:58:57.295Z",
+    "date": "2026-10-12T17:29:31.967Z",
     "status": "scraped",
     "tags": [
       "fonduri europene",
       "consultanță"
     ],
-    "matchPercentage": 85,
-    "reason": "Consultant fonduri europene, domeniu direct relevant pentru competențele tale."
+    "matchPercentage": 88,
+    "reason": "Consultanță pe fonduri nerambursabile la nivel junior-mid, folosește direct competențele de accesare a finanțării europene."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-nerambursabile-36",
+    "title": "Consultant fonduri europene nerambursabile",
+    "company": "ANALITIQ MANAGEMENT S.R.L.",
+    "location": [
+      "Cluj-Napoca, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:27:16.950Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "consultanță"
+    ],
+    "matchPercentage": 88,
+    "reason": "Consultanță pe fonduri europene nerambursabile, potrivire directă pe accesarea finanțării."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-234",
@@ -92,31 +41,65 @@
       "Craiova, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:58:00.313Z",
+    "date": "2026-10-12T17:26:36.987Z",
     "status": "scraped",
     "tags": [
       "fonduri europene",
       "consultanță"
     ],
-    "matchPercentage": 85,
-    "reason": "Consultant fonduri europene, domeniu direct relevant pentru competențele tale."
+    "matchPercentage": 88,
+    "reason": "Consultanță fonduri europene, activitate centrală din domeniul tău de specialitate."
   },
   {
-    "url": "https://www.jobradar24.ro/anunt/consultant-accesare-fonduri-europenenerambursabile-qz6g8k",
-    "title": "Consultant accesare fonduri europene/nerambursabile",
-    "company": "SMART INSURANCE CONSULTANTS S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/expert-fonduri-europene-sector-public",
+    "title": "Expert Fonduri Europene – Sector Public",
+    "company": "ASOCIATIA ROMANA PENTRU METAPSYHHE ECHILIBRUM S.R.L.",
+    "location": [
+      "Integral Business Center, Voluntari, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:29:28.197Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "politici publice"
+    ],
+    "matchPercentage": 82,
+    "reason": "Expert fonduri europene pentru sectorul public, implică programe și proiecte europene în administrația publică."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
+    "title": "Consultant Fonduri Europene – București, Hybrid",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
       "Bucuresti, Romania"
     ],
     "salary": null,
-    "date": "2026-10-11T14:56:49.541Z",
+    "date": "2026-10-12T17:32:25.326Z",
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "cereri de finanțare"
+      "consultanță"
     ],
-    "matchPercentage": 70,
-    "reason": "Consultant accesare fonduri nerambursabile, domeniu relevant dar cere minim 3 ani experiență, la limita nivelului."
+    "matchPercentage": 80,
+    "reason": "Consultant fonduri europene, potrivire directă cu accesarea și consultanța pe finanțări europene."
+  },
+  {
+    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
+    "title": "Expert accesare Fonduri Europene",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Resita, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:31:07.560Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "accesare finanțare"
+    ],
+    "matchPercentage": 74,
+    "reason": "Expert accesare fonduri europene, potrivire directă cu identificarea și accesarea finanțărilor europene."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3389609",
@@ -132,25 +115,8 @@
       "administrație publică",
       "guvernanță"
     ],
-    "matchPercentage": 68,
-    "reason": "Inspector de specialitate în administrație publică, entry-level sub 3 ani și domeniu relevant."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/public-procurement-specialist-75",
-    "title": "Public procurement specialist",
-    "company": "GODMOTHER SRL",
-    "location": [
-      "Strada Dr. Burghelea, Bucuresti, Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-11T15:06:04.626Z",
-    "status": "scraped",
-    "tags": [
-      "interpretare legislativă",
-      "administrație publică"
-    ],
-    "matchPercentage": 65,
-    "reason": "Achizițiile publice implică direct interpretare legislativă și administrație publică, relevante pentru accesarea fondurilor europene."
+    "matchPercentage": 70,
+    "reason": "Inspector de specialitate in administratia publica, nivel junior si domeniu parțial relevant."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3337316",
@@ -166,7 +132,41 @@
       "administrație publică",
       "politici publice"
     ],
-    "matchPercentage": 60,
-    "reason": "Referent în administrație publică, domeniu relevant, deși cere 3-5 ani experiență."
+    "matchPercentage": 68,
+    "reason": "Referent de specialitate in administratia publica, domeniu parțial relevant, dar cu 3-5 ani experienta la limita."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3362292",
+    "title": "SPECIALIST ÎN RELATII PUBLICE",
+    "company": "MAARIF - INSTITUŢII INTERNAŢIONALE DE ÎNVĂŢĂMÂNT S.A.",
+    "location": [
+      "Bucuresti sectorul 3, Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-12T17:33:49.967Z",
+    "status": "scraped",
+    "tags": [
+      "relații publice",
+      "comunicare instituțională"
+    ],
+    "matchPercentage": 63,
+    "reason": "Specialist relații publice sub 3 ani experiență, folosește comunicare instituțională și relații cu presa."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
+    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-12T14:33:11.226Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare",
+      "analiză politică"
+    ],
+    "matchPercentage": 62,
+    "reason": "Trainee în cercetare socială pe teme politice și de politici publice, folosește cercetare documentară și analiză de conținut."
   }
 ]
