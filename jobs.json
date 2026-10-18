@@ -1,5 +1,59 @@
 [
   {
+    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
+    "title": "Consultant Fonduri Europene – București, Hybrid",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:59.558Z",
+    "status": "scraped",
+    "tags": [
+      "accesare fonduri",
+      "proiecte europene"
+    ],
+    "matchPercentage": 95,
+    "reason": "Consultanta si accesarea fondurilor europene se potrivesc direct cu competentele de specialitate."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
+    "title": "Specialist fonduri europene",
+    "company": "BEST SMART CONSULTING SRL",
+    "location": [
+      "Mioveni",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:41.370Z",
+    "status": "scraped",
+    "tags": [
+      "accesare fonduri",
+      "proiecte europene"
+    ],
+    "matchPercentage": 95,
+    "reason": "Pozitie axata pe fonduri europene, foarte relevanta pentru profilul de absolvent."
+  },
+  {
+    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
+    "title": "Expert accesare Fonduri Europene",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Resita",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:33.969Z",
+    "status": "scraped",
+    "tags": [
+      "accesare fonduri",
+      "proiecte europene"
+    ],
+    "matchPercentage": 90,
+    "reason": "Accesarea fondurilor europene corespunde direct competentelor tehnice ale domeniului."
+  },
+  {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
     "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
     "company": "YOUGOV CP ROMANIA S.R.L.",
@@ -7,13 +61,67 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-16T10:48:11.921Z",
+    "date": "2026-10-17T10:12:57.232Z",
     "status": "scraped",
     "tags": [
-      "cercetare documentară",
-      "redactare rapoarte"
+      "analiza politica",
+      "cercetare documentara"
+    ],
+    "matchPercentage": 65,
+    "reason": "Cercetarea sociala si politica se potriveste partial cu profilul, insa putin axata pe institutii si politici UE."
+  },
+  {
+    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
+    "title": "Junior News Editor",
+    "company": "CROSS WORK S.R.L.",
+    "location": [
+      "all",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:04:08.818Z",
+    "status": "scraped",
+    "tags": [
+      "analiză de conținut",
+      "comunicare instituțională"
+    ],
+    "matchPercentage": 65,
+    "reason": "Junior news editor la nivel entry, potrivit pentru direcția de jurnalism și comunicare, folosind redactare, analiză de conținut și engleza C1, deși tema fintech nu e afaceri europene."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272623/SCHAEFFLER/Internship-Project-Management-Office",
+    "title": "Internship Project Management Office",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:24.040Z",
+    "status": "scraped",
+    "tags": [
+      "management de proiect",
+      "raportare"
     ],
     "matchPercentage": 62,
-    "reason": "Trainee în cercetare socială cu proiecte pe teme politice, educative și de media – folosește direct competențele de cercetare documentară, sinteză și redactare de rapoarte."
+    "reason": "Internship într-un office de management de proiect, unde planificarea, urmărirea termenilor și raportarea folosesc direct competența ta de management de proiect, deși într-un context industrial."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-culegeri-de-legislatie",
+    "title": "Redactor culegeri de legislație",
+    "company": "UNIVERSUL PLANTAȚIILOR S.R.L.",
+    "location": [
+      "Remote",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:14:28.136Z",
+    "status": "scraped",
+    "tags": [
+      "interpretare legislativă",
+      "redactare"
+    ],
+    "matchPercentage": 62,
+    "reason": "Redactarea culegerilor de legislație folosește direct interpretarea legislativă și competențele de redactare, la nivel entry, deși nu e vorba strict de drept UE."
   }
 ]
