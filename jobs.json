@@ -11,83 +11,11 @@
     "date": "2026-10-17T11:59:22.731Z",
     "status": "scraped",
     "tags": [
-      "accesare fonduri europene",
-      "management de proiect"
-    ],
-    "matchPercentage": 95,
-    "reason": "Consultanță pe tot ciclul proiectelor cu finanțare europeană (cereri, implementare, monitorizare, raportare), potrivire perfectă la nivel medior."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
-    "title": "Specialist fonduri europene",
-    "company": "BEST SMART CONSULTING SRL",
-    "location": [
-      "Mioveni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:41.370Z",
-    "status": "scraped",
-    "tags": [
       "fonduri europene",
-      "accesare finanțare"
-    ],
-    "matchPercentage": 85,
-    "reason": "Consultanță directă în accesarea finanțării europene, un domeniu central al competențelor tale."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/manager-de-proiect-fonduri-europene/99749",
-    "title": "Manager de Proiect Fonduri Europene",
-    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:28.973Z",
-    "status": "scraped",
-    "tags": [
-      "accesare fonduri europene",
       "management de proiect"
     ],
-    "matchPercentage": 85,
-    "reason": "Gestionarea proiectelor pentru obținerea finanțărilor europene se potrivește direct cu competențele de management de proiecte europene și accesare fonduri."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271267/PPC-ROMANIA/Manager-de-Proiect-Fonduri-Europene",
-    "title": "Manager de Proiect Fonduri Europene",
-    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T11:59:45.053Z",
-    "status": "scraped",
-    "tags": [
-      "accesare fonduri europene",
-      "management de proiect"
-    ],
-    "matchPercentage": 85,
-    "reason": "Rol de manager de proiect fonduri europene, potrivire directă cu competențele de accesare și management de proiecte europene."
-  },
-  {
-    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
-    "title": "Expert accesare Fonduri Europene",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Resita",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:33.969Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "consultanță finanțare"
-    ],
-    "matchPercentage": 76,
-    "reason": "Accesare fonduri europene se potrivește direct, dar poziția de „Expert” ar putea presupune o experiență ceva mai mare decât nivelul junior."
+    "matchPercentage": 92,
+    "reason": "Consultanță fonduri europene la nivel medior, cu ciclu complet de proiect: cereri de finanțare, implementare, monitorizare și raportare."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
@@ -97,14 +25,32 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-18T10:28:39.333Z",
+    "date": "2026-10-19T12:16:18.077Z",
     "status": "scraped",
     "tags": [
-      "analiză politică",
-      "cercetare documentară"
+      "cercetare documentară",
+      "analiză politică"
     ],
-    "matchPercentage": 65,
-    "reason": "Cercetare sociala cu focus pe politica poate folosi partial competentele de analiza politica si cercetare documentara."
+    "matchPercentage": 66,
+    "reason": "Trainee în cercetare social-politică: cercetare, documentare, redactare de rapoarte și sprijin în conceperea studiilor, ceea ce folosește direct competențele de cercetare documentară și analiză politică."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272857/Meya-Pro/Legal-Advisor(Junior-/-Middle-Level)",
+    "title": "Legal Advisor(Junior / Middle Level)",
+    "company": "MEYA PRO S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:08.713Z",
+    "status": "scraped",
+    "tags": [
+      "interpretare legislativă",
+      "drept UE"
+    ],
+    "matchPercentage": 62,
+    "reason": "Consultanță juridică la nivel junior/middle, unde interpretarea legislativă (inclusiv drept UE) este o competență de specialitate direct utilizabilă."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
@@ -118,10 +64,11 @@
     "date": "2026-10-17T12:09:29.059Z",
     "status": "scraped",
     "tags": [
-      "administrație publică"
+      "administrație publică",
+      "guvernanță"
     ],
     "matchPercentage": 62,
-    "reason": "Post de consilier în administrația publică, la nivel de intrare fără experiență, potrivit pentru direcția de administrație și guvernanță."
+    "reason": "Consilier în administrație publică, fără experiență cerută, potrivit pentru nivelul de intrare în domeniu."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
@@ -135,9 +82,10 @@
     "date": "2026-10-17T12:09:29.059Z",
     "status": "scraped",
     "tags": [
-      "administrație publică"
+      "administrație publică",
+      "interpretare legislativă"
     ],
-    "matchPercentage": 62,
-    "reason": "Inspector în administrația publică fără experiență cerută, potrivit ca punct de intrare în administrație."
+    "matchPercentage": 60,
+    "reason": "Inspector în administrație publică fără experiență, potrivit ca prim rol în guvernanță și administrație."
   }
 ]
