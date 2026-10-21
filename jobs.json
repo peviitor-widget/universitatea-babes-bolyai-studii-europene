@@ -12,45 +12,46 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "management de proiect"
+      "management proiect"
     ],
     "matchPercentage": 92,
-    "reason": "Consultanță fonduri europene la nivel medior, cu ciclu complet de proiect: cereri de finanțare, implementare, monitorizare și raportare."
+    "reason": "Consultanță în finanțări europene la nivel medior, cu ciclul complet al proiectului: cereri de finanțare, achiziții publice, monitorizare și raportare — potrivire directă cu pregătirea academică."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
-    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
+    "title": "Specialist fonduri europene",
+    "company": "BEST SMART CONSULTING SRL",
     "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-19T12:16:18.077Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare documentară",
-      "analiză politică"
-    ],
-    "matchPercentage": 66,
-    "reason": "Trainee în cercetare social-politică: cercetare, documentare, redactare de rapoarte și sprijin în conceperea studiilor, ceea ce folosește direct competențele de cercetare documentară și analiză politică."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272857/Meya-Pro/Legal-Advisor(Junior-/-Middle-Level)",
-    "title": "Legal Advisor(Junior / Middle Level)",
-    "company": "MEYA PRO S.R.L.",
-    "location": [
-      "Bucuresti",
+      "Mioveni",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:17:08.713Z",
+    "date": "2026-10-17T12:20:41.370Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "proiecte europene"
+    ],
+    "matchPercentage": 87,
+    "reason": "Specialist fonduri europene - accesare și gestionarea finanțării UE, exact profilul de consultanță în fonduri structurale."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-culegeri-de-legislatie",
+    "title": "Redactor culegeri de legislație",
+    "company": "UNIVERSUL PLANTAȚIILOR S.R.L.",
+    "location": [
+      "Remote",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:14:28.136Z",
     "status": "scraped",
     "tags": [
       "interpretare legislativă",
-      "drept UE"
+      "redactare de rapoarte"
     ],
-    "matchPercentage": 62,
-    "reason": "Consultanță juridică la nivel junior/middle, unde interpretarea legislativă (inclusiv drept UE) este o competență de specialitate direct utilizabilă."
+    "matchPercentage": 72,
+    "reason": "Redactarea culegerilor legislative se bazează direct pe interpretarea legislației și redactarea de documente juridice, la nivel de intrare și în regim remote."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
@@ -64,28 +65,99 @@
     "date": "2026-10-17T12:09:29.059Z",
     "status": "scraped",
     "tags": [
-      "administrație publică",
-      "guvernanță"
+      "administratie publica",
+      "management proiecte"
     ],
-    "matchPercentage": 62,
-    "reason": "Consilier în administrație publică, fără experiență cerută, potrivit pentru nivelul de intrare în domeniu."
+    "matchPercentage": 70,
+    "reason": "Consilier in administratia publica cu0 ani experienta, nivel entry-level potrivit, dar fara descriere detaliata a sarcinilor, deci potrivire partiala."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
-    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
-    "company": "RM TOP BUILDCONS S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417779",
+    "title": "ANALIST",
+    "company": "DELGAZ GRID S.A.",
     "location": [
-      "Municipiul ramnicu valcea",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:09:29.059Z",
+    "date": "2026-10-17T12:21:36.131Z",
     "status": "scraped",
     "tags": [
-      "administrație publică",
-      "interpretare legislativă"
+      "interpretare legislativă",
+      "competențe digitale"
+    ],
+    "matchPercentage": 68,
+    "reason": "Analist cu aplicarea legislației energetice (ANRE, directive UE) și prelucrare analitică a datelor – potrivire parțială la interpretare legislativă și competențe digitale, la nivel entry-level."
+  },
+  {
+    "url": "https://electrogrup.applytojob.com/apply/jobs/details/QACN0kyEi6",
+    "title": "Project Controller Constructii Civile",
+    "company": "ELECTROGRUP SA",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-20T11:08:19Z",
+    "status": "scraped",
+    "tags": [
+      "analiză bugetară",
+      "management de proiect"
+    ],
+    "matchPercentage": 66,
+    "reason": "Project controller construcții: analiză bugetară, verificare a costurilor, monitorizare KPI, raportare și comunicare cu subcontractorii — mapează direct pe analiză bugetară și management de proiect la nivel de mid."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
+    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-20T10:59:04.441Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare documentară",
+      "analiză statistică"
+    ],
+    "matchPercentage": 65,
+    "reason": "Trainee în cercetare socială: documentare, raportare tehnică, sinteză de date pe teme de politică și media – potrivire parțială de domeniu la nivel de trainee."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420130",
+    "title": "FORMATOR",
+    "company": "SOCIETATEA DE CONTABILITATE, EXPERTIZA SI CONSULTANTA CONTABILA SRL",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:34.311Z",
+    "status": "scraped",
+    "tags": [
+      "redactare studii de caz",
+      "scriere academica"
+    ],
+    "matchPercentage": 63,
+    "reason": "Formator entry-level intr-un proiect cu finantare externa: elaborare de materiale didactice, studii de caz si evaluare, valorificand scrierea academica, sinteza de politici si competentele de audit si consultanta financiara."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420140",
+    "title": "FORMATOR",
+    "company": "SOCIETATEA DE CONTABILITATE, EXPERTIZA SI CONSULTANTA CONTABILA SRL",
+    "location": [
+      "Craiova",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:34.311Z",
+    "status": "scraped",
+    "tags": [
+      "competente digitale",
+      "comunicare"
     ],
     "matchPercentage": 60,
-    "reason": "Inspector în administrație publică fără experiență, potrivit ca prim rol în guvernanță și administrație."
+    "reason": "Formator entry-level pentru un proiect cu finantare externa in domeniul competentelor digitale si social media, potrivit cu comunicarea institutionala si competentele digitale."
   }
 ]
