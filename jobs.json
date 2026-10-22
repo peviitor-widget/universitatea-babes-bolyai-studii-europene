@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
+    "title": "Consultant Fonduri Europene",
+    "company": "DGA EXPERT INVEST INTERNATIONAL S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:14.906Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "scriere cereri"
+    ],
+    "matchPercentage": 92,
+    "reason": "Consultanța pentru fonduri europene folosește direct competențele de accesare și gestionare a finanțărilor UE."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
+    "title": "Consultant Fonduri Europene – București, Hybrid",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:59.558Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "consultanță"
+    ],
+    "matchPercentage": 92,
+    "reason": "Rolul de consultant fonduri europene corespunde direct competențelor de consultanță și accesare a finanțărilor UE."
+  },
+  {
     "url": "https://dreamjobs.ro/ro/job/startuphub/consultant-in-fonduri-europene-2",
     "title": "Consultant în fonduri europene",
     "company": "STARTUP WORKSPACE S.R.L.",
@@ -11,11 +47,11 @@
     "date": "2026-10-17T11:59:22.731Z",
     "status": "scraped",
     "tags": [
-      "fonduri europene",
-      "management proiect"
+      "management de proiect",
+      "fonduri europene"
     ],
-    "matchPercentage": 92,
-    "reason": "Consultanță în finanțări europene la nivel medior, cu ciclul complet al proiectului: cereri de finanțare, achiziții publice, monitorizare și raportare — potrivire directă cu pregătirea academică."
+    "matchPercentage": 90,
+    "reason": "Consultant fonduri europene nivel medior care acopera intreg ciclul proiectelor, potrivire directa."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
@@ -30,32 +66,50 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "proiecte europene"
+      "management de proiect"
     ],
-    "matchPercentage": 87,
-    "reason": "Specialist fonduri europene - accesare și gestionarea finanțării UE, exact profilul de consultanță în fonduri structurale."
+    "matchPercentage": 88,
+    "reason": "Specialistul în fonduri europene are sarcini directe de identificare și accesare a finanțărilor europene."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-culegeri-de-legislatie",
-    "title": "Redactor culegeri de legislație",
-    "company": "UNIVERSUL PLANTAȚIILOR S.R.L.",
+    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
+    "title": "Expert accesare Fonduri Europene",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Remote",
+      "Resita",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:14:28.136Z",
+    "date": "2026-10-17T12:20:33.969Z",
     "status": "scraped",
     "tags": [
-      "interpretare legislativă",
-      "redactare de rapoarte"
+      "fonduri europene",
+      "consultanță"
     ],
-    "matchPercentage": 72,
-    "reason": "Redactarea culegerilor legislative se bazează direct pe interpretarea legislației și redactarea de documente juridice, la nivel de intrare și în regim remote."
+    "matchPercentage": 85,
+    "reason": "Expertul în accesarea fondurilor europene corespunde domeniului, la un nivel profesional compatibil cu mid-level."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
-    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
+    "title": "consultanta fonduri europene",
+    "company": "JUNIOR GROUP SRL",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:04:11.925Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "consultanta"
+    ],
+    "matchPercentage": 80,
+    "reason": "Consultanta in fonduri europene foloseste direct competentele de accesare a finantarii, nivel entry/junior."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
     "company": "RM TOP BUILDCONS S.R.L.",
     "location": [
       "Municipiul ramnicu valcea",
@@ -65,47 +119,11 @@
     "date": "2026-10-17T12:09:29.059Z",
     "status": "scraped",
     "tags": [
-      "administratie publica",
-      "management proiecte"
+      "administrație publică",
+      "politici publice"
     ],
-    "matchPercentage": 70,
-    "reason": "Consilier in administratia publica cu0 ani experienta, nivel entry-level potrivit, dar fara descriere detaliata a sarcinilor, deci potrivire partiala."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3417779",
-    "title": "ANALIST",
-    "company": "DELGAZ GRID S.A.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:21:36.131Z",
-    "status": "scraped",
-    "tags": [
-      "interpretare legislativă",
-      "competențe digitale"
-    ],
-    "matchPercentage": 68,
-    "reason": "Analist cu aplicarea legislației energetice (ANRE, directive UE) și prelucrare analitică a datelor – potrivire parțială la interpretare legislativă și competențe digitale, la nivel entry-level."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/QACN0kyEi6",
-    "title": "Project Controller Constructii Civile",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-20T11:08:19Z",
-    "status": "scraped",
-    "tags": [
-      "analiză bugetară",
-      "management de proiect"
-    ],
-    "matchPercentage": 66,
-    "reason": "Project controller construcții: analiză bugetară, verificare a costurilor, monitorizare KPI, raportare și comunicare cu subcontractorii — mapează direct pe analiză bugetară și management de proiect la nivel de mid."
+    "matchPercentage": 75,
+    "reason": "Rol entry-level în administrație publică, compatibil cu competențele de guvernanță și politici publice."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
@@ -115,49 +133,31 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-20T10:59:04.441Z",
+    "date": "2026-10-21T11:15:33.357Z",
     "status": "scraped",
     "tags": [
       "cercetare documentară",
       "analiză statistică"
     ],
     "matchPercentage": 65,
-    "reason": "Trainee în cercetare socială: documentare, raportare tehnică, sinteză de date pe teme de politică și media – potrivire parțială de domeniu la nivel de trainee."
+    "reason": "Cercetarea socială și analiza de date folosesc parțial competențele de cercetare și sinteză, deși nu vizează direct integrarea europeană."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420130",
-    "title": "FORMATOR",
-    "company": "SOCIETATEA DE CONTABILITATE, EXPERTIZA SI CONSULTANTA CONTABILA SRL",
+    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
+    "title": "Junior News Editor",
+    "company": "CROSS WORK S.R.L.",
     "location": [
-      "Craiova",
+      "all",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:22:34.311Z",
+    "date": "2026-10-17T12:04:08.818Z",
     "status": "scraped",
     "tags": [
-      "redactare studii de caz",
-      "scriere academica"
+      "jurnalism",
+      "analiză de conținut"
     ],
-    "matchPercentage": 63,
-    "reason": "Formator entry-level intr-un proiect cu finantare externa: elaborare de materiale didactice, studii de caz si evaluare, valorificand scrierea academica, sinteza de politici si competentele de audit si consultanta financiara."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3420140",
-    "title": "FORMATOR",
-    "company": "SOCIETATEA DE CONTABILITATE, EXPERTIZA SI CONSULTANTA CONTABILA SRL",
-    "location": [
-      "Craiova",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:34.311Z",
-    "status": "scraped",
-    "tags": [
-      "competente digitale",
-      "comunicare"
-    ],
-    "matchPercentage": 60,
-    "reason": "Formator entry-level pentru un proiect cu finantare externa in domeniul competentelor digitale si social media, potrivit cu comunicarea institutionala si competentele digitale."
+    "matchPercentage": 65,
+    "reason": "Junior news editor în fintech, potrivire parțială pe jurnalism, analiză de conținut și engleză C1."
   }
 ]
