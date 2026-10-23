@@ -1,59 +1,5 @@
 [
   {
-    "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
-    "title": "Consultant Fonduri Europene",
-    "company": "DGA EXPERT INVEST INTERNATIONAL S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:14.906Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "scriere cereri"
-    ],
-    "matchPercentage": 92,
-    "reason": "Consultanța pentru fonduri europene folosește direct competențele de accesare și gestionare a finanțărilor UE."
-  },
-  {
-    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
-    "title": "Consultant Fonduri Europene – București, Hybrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:21:59.558Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "consultanță"
-    ],
-    "matchPercentage": 92,
-    "reason": "Rolul de consultant fonduri europene corespunde direct competențelor de consultanță și accesare a finanțărilor UE."
-  },
-  {
-    "url": "https://dreamjobs.ro/ro/job/startuphub/consultant-in-fonduri-europene-2",
-    "title": "Consultant în fonduri europene",
-    "company": "STARTUP WORKSPACE S.R.L.",
-    "location": [
-      "Marosvasarhely",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T11:59:22.731Z",
-    "status": "scraped",
-    "tags": [
-      "management de proiect",
-      "fonduri europene"
-    ],
-    "matchPercentage": 90,
-    "reason": "Consultant fonduri europene nivel medior care acopera intreg ciclul proiectelor, potrivire directa."
-  },
-  {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
     "title": "Specialist fonduri europene",
     "company": "BEST SMART CONSULTING SRL",
@@ -66,46 +12,28 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "management de proiect"
-    ],
-    "matchPercentage": 88,
-    "reason": "Specialistul în fonduri europene are sarcini directe de identificare și accesare a finanțărilor europene."
-  },
-  {
-    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
-    "title": "Expert accesare Fonduri Europene",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Resita",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:33.969Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
       "consultanță"
     ],
-    "matchPercentage": 85,
-    "reason": "Expertul în accesarea fondurilor europene corespunde domeniului, la un nivel profesional compatibil cu mid-level."
+    "matchPercentage": 88,
+    "reason": "Specialist fonduri europene, folosește direct competențele de accesare și gestionare a finanțărilor UE la nivel entry/mid."
   },
   {
-    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
-    "title": "consultanta fonduri europene",
-    "company": "JUNIOR GROUP SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "RM TOP BUILDCONS S.R.L.",
     "location": [
-      "Constanta",
+      "Municipiul ramnicu valcea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:04:11.925Z",
+    "date": "2026-10-17T12:09:29.059Z",
     "status": "scraped",
     "tags": [
-      "fonduri europene",
-      "consultanta"
+      "politici publice",
+      "administrație publică"
     ],
-    "matchPercentage": 80,
-    "reason": "Consultanta in fonduri europene foloseste direct competentele de accesare a finantarii, nivel entry/junior."
+    "matchPercentage": 75,
+    "reason": "Post entry-level în administrația publică, relevant pentru competențele de politici publice și guvernanță."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
@@ -123,41 +51,6 @@
       "politici publice"
     ],
     "matchPercentage": 75,
-    "reason": "Rol entry-level în administrație publică, compatibil cu competențele de guvernanță și politici publice."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
-    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-21T11:15:33.357Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare documentară",
-      "analiză statistică"
-    ],
-    "matchPercentage": 65,
-    "reason": "Cercetarea socială și analiza de date folosesc parțial competențele de cercetare și sinteză, deși nu vizează direct integrarea europeană."
-  },
-  {
-    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
-    "title": "Junior News Editor",
-    "company": "CROSS WORK S.R.L.",
-    "location": [
-      "all",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:04:08.818Z",
-    "status": "scraped",
-    "tags": [
-      "jurnalism",
-      "analiză de conținut"
-    ],
-    "matchPercentage": 65,
-    "reason": "Junior news editor în fintech, potrivire parțială pe jurnalism, analiză de conținut și engleză C1."
+    "reason": "Post entry-level de inspector în administrația publică, potrivit pentru absolvenți de studii europene."
   }
 ]
