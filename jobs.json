@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
+    "title": "Consultant Fonduri Europene",
+    "company": "DGA EXPERT INVEST INTERNATIONAL S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:14.906Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "proiecte europene"
+    ],
+    "matchPercentage": 95,
+    "reason": "Consultanță în accesarea fondurilor europene"
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
+    "title": "Consultant Fonduri Europene – București, Hybrid",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:59.558Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "proiecte europene"
+    ],
+    "matchPercentage": 95,
+    "reason": "Consultanță în accesarea fondurilor europene"
+  },
+  {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
     "title": "Specialist fonduri europene",
     "company": "BEST SMART CONSULTING SRL",
@@ -12,10 +48,46 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "consultanță"
+      "accesare fonduri"
+    ],
+    "matchPercentage": 95,
+    "reason": "Specialist fonduri europene"
+  },
+  {
+    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
+    "title": "Expert accesare Fonduri Europene",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Resita",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:33.969Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "accesare fonduri"
+    ],
+    "matchPercentage": 95,
+    "reason": "Expert accesare fonduri europene"
+  },
+  {
+    "url": "https://dreamjobs.ro/ro/job/startuphub/consultant-in-fonduri-europene-2",
+    "title": "Consultant în fonduri europene",
+    "company": "STARTUP WORKSPACE S.R.L.",
+    "location": [
+      "Marosvasarhely",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T11:59:22.731Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "management proiect"
     ],
     "matchPercentage": 88,
-    "reason": "Specialist fonduri europene, folosește direct competențele de accesare și gestionare a finanțărilor UE la nivel entry/mid."
+    "reason": "Consultant fonduri europene la nivel medior, cu sarcini directe de redactare, implementare și raportare a proiectelor."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
@@ -29,11 +101,11 @@
     "date": "2026-10-17T12:09:29.059Z",
     "status": "scraped",
     "tags": [
-      "politici publice",
-      "administrație publică"
+      "administrație publică",
+      "politici publice"
     ],
-    "matchPercentage": 75,
-    "reason": "Post entry-level în administrația publică, relevant pentru competențele de politici publice și guvernanță."
+    "matchPercentage": 65,
+    "reason": "Consilier în administrația publică, nivel entry-level, parțial relevant pentru guvernanță publică."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
@@ -48,9 +120,26 @@
     "status": "scraped",
     "tags": [
       "administrație publică",
-      "politici publice"
+      "legislație"
     ],
-    "matchPercentage": 75,
-    "reason": "Post entry-level de inspector în administrația publică, potrivit pentru absolvenți de studii europene."
+    "matchPercentage": 65,
+    "reason": "Inspector în administrația publică, fără experiență cerută, parțial relevant pentru domeniul public."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
+    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-23T11:05:36.716Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare documentară",
+      "analiză politică"
+    ],
+    "matchPercentage": 62,
+    "reason": "Trainee în cercetare socială, cu sarcini de documentare, analiză și raportare pe teme politice și sociale, parțial relevante."
   }
 ]
