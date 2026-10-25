@@ -1,77 +1,5 @@
 [
   {
-    "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
-    "title": "Consultant Fonduri Europene",
-    "company": "DGA EXPERT INVEST INTERNATIONAL S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:22:14.906Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "proiecte europene"
-    ],
-    "matchPercentage": 95,
-    "reason": "Consultanță în accesarea fondurilor europene"
-  },
-  {
-    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
-    "title": "Consultant Fonduri Europene – București, Hybrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:21:59.558Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "proiecte europene"
-    ],
-    "matchPercentage": 95,
-    "reason": "Consultanță în accesarea fondurilor europene"
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
-    "title": "Specialist fonduri europene",
-    "company": "BEST SMART CONSULTING SRL",
-    "location": [
-      "Mioveni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:41.370Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "accesare fonduri"
-    ],
-    "matchPercentage": 95,
-    "reason": "Specialist fonduri europene"
-  },
-  {
-    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
-    "title": "Expert accesare Fonduri Europene",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Resita",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:20:33.969Z",
-    "status": "scraped",
-    "tags": [
-      "fonduri europene",
-      "accesare fonduri"
-    ],
-    "matchPercentage": 95,
-    "reason": "Expert accesare fonduri europene"
-  },
-  {
     "url": "https://dreamjobs.ro/ro/job/startuphub/consultant-in-fonduri-europene-2",
     "title": "Consultant în fonduri europene",
     "company": "STARTUP WORKSPACE S.R.L.",
@@ -86,60 +14,79 @@
       "fonduri europene",
       "management proiect"
     ],
-    "matchPercentage": 88,
-    "reason": "Consultant fonduri europene la nivel medior, cu sarcini directe de redactare, implementare și raportare a proiectelor."
+    "matchPercentage": 92,
+    "reason": "Gestionează ciclul complet al proiectelor europene la nivel medior, cu potrivire directă."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
-    "title": "CONSILIER ADMINISTRATIA PUBLICA",
-    "company": "RM TOP BUILDCONS S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
+    "title": "Specialist fonduri europene",
+    "company": "BEST SMART CONSULTING SRL",
     "location": [
-      "Municipiul ramnicu valcea",
+      "Mioveni",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:09:29.059Z",
+    "date": "2026-10-17T12:20:41.370Z",
     "status": "scraped",
     "tags": [
-      "administrație publică",
-      "politici publice"
+      "fonduri europene",
+      "management proiecte"
     ],
-    "matchPercentage": 65,
-    "reason": "Consilier în administrația publică, nivel entry-level, parțial relevant pentru guvernanță publică."
+    "matchPercentage": 85,
+    "reason": "Rolul vizează direct fondurile europene, una dintre competențele centrale ale profilului."
   },
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
-    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
-    "company": "RM TOP BUILDCONS S.R.L.",
+    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
+    "title": "consultanta fonduri europene",
+    "company": "JUNIOR GROUP SRL",
     "location": [
-      "Municipiul ramnicu valcea",
+      "Constanta",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:09:29.059Z",
+    "date": "2026-10-17T12:04:11.925Z",
     "status": "scraped",
     "tags": [
-      "administrație publică",
-      "legislație"
+      "fonduri europene",
+      "consultanță"
     ],
-    "matchPercentage": 65,
-    "reason": "Inspector în administrația publică, fără experiență cerută, parțial relevant pentru domeniul public."
+    "matchPercentage": 83,
+    "reason": "Consultanță directă în fonduri europene, potrivită unui absolvent la început de carieră."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
-    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
+    "title": "Expert accesare Fonduri Europene",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "România"
+      "Resita",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-10-23T11:05:36.716Z",
+    "date": "2026-10-17T12:20:33.969Z",
     "status": "scraped",
     "tags": [
-      "cercetare documentară",
-      "analiză politică"
+      "fonduri europene",
+      "consultanță"
     ],
-    "matchPercentage": 62,
-    "reason": "Trainee în cercetare socială, cu sarcini de documentare, analiză și raportare pe teme politice și sociale, parțial relevante."
+    "matchPercentage": 75,
+    "reason": "Accesarea fondurilor europene este domeniu direct, deși titlul de expert poate indica un nivel peste entry-level."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272623/SCHAEFFLER/Internship-Project-Management-Office",
+    "title": "Internship Project Management Office",
+    "company": "SCHAEFFLER ROMANIA SRL",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:24.040Z",
+    "status": "scraped",
+    "tags": [
+      "management proiecte",
+      "raportare"
+    ],
+    "matchPercentage": 65,
+    "reason": "Internship în PMO cu atribuții de planificare, termene și raportare, potrivire parțială pentru managementul proiectelor, dar nu specific proiectelor europene."
   }
 ]
