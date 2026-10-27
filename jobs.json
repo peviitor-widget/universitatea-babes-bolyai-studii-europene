@@ -11,11 +11,11 @@
     "date": "2026-10-17T11:59:22.731Z",
     "status": "scraped",
     "tags": [
-      "management proiect",
-      "fonduri europene"
+      "fonduri europene",
+      "raportare"
     ],
     "matchPercentage": 90,
-    "reason": "Rol medior direct pe ciclul proiectelor europene, de la cereri de finanțare la implementare și raportare."
+    "reason": "Gestionarea ciclului complet al proiectelor cu finantare europeana si nationala, foarte relevant."
   },
   {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
@@ -30,10 +30,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "management proiecte"
+      "consultanță"
     ],
-    "matchPercentage": 85,
-    "reason": "Consultant fonduri europene, activitate directă de accesare și gestionare a finanțărilor UE."
+    "matchPercentage": 88,
+    "reason": "Consultanță directă în fonduri europene, potrivită pentru absolvent sau junior cu competențe de accesare și management de proiect."
   },
   {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
@@ -48,10 +48,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "management proiecte"
+      "consultanță"
     ],
-    "matchPercentage": 85,
-    "reason": "Rol de consultant fonduri europene, aliniat cu competențele de scriere și management al proiectelor."
+    "matchPercentage": 88,
+    "reason": "Rol direct în consultanță pentru fonduri europene, cu aplicare clară a competențelor de finanțare și proiecte."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
@@ -66,27 +66,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "consultanță"
+      "accesare finanțare"
     ],
-    "matchPercentage": 82,
-    "reason": "Specialist fonduri europene, cu sarcini de identificare și accesare a finanțărilor europene."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
-    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-10-25T10:52:09.803Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare documentară",
-      "analiză politică"
-    ],
-    "matchPercentage": 72,
-    "reason": "Trainee în cercetare socială pe teme politice și sociale, cu documentare, raportare și analiză în germană."
+    "matchPercentage": 85,
+    "reason": "Specialist fonduri europene este o poziție relevantă, cu nivel probabil entry/mid și sarcini de accesare a finanțării."
   },
   {
     "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
@@ -100,10 +83,100 @@
     "date": "2026-10-17T12:04:11.925Z",
     "status": "scraped",
     "tags": [
-      "consultanță",
-      "fonduri europene"
+      "fonduri europene",
+      "proiecte"
+    ],
+    "matchPercentage": 80,
+    "reason": "Consultanta in fonduri europene, domeniu direct relevant pentru competentele tale."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "RM TOP BUILDCONS S.R.L.",
+    "location": [
+      "Municipiul ramnicu valcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:29.059Z",
+    "status": "scraped",
+    "tags": [
+      "administrație publică",
+      "politică publică"
+    ],
+    "matchPercentage": 75,
+    "reason": "Poziție de consilier în administrația publică, domeniu relevant pentru guvernanță europeană și la nivel entry-level."
+  },
+  {
+    "url": "https://oferimdemunca.ro/job/functionar-economic-delcarant-vamal/",
+    "title": "Functionar Economic/Declarant Vamal",
+    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:19:17.005Z",
+    "status": "scraped",
+    "tags": [
+      "drept UE",
+      "comerț internațional"
+    ],
+    "matchPercentage": 75,
+    "reason": "Declarant vamal - activitate strâns legată de dreptul vamal UE și comerțul internațional."
+  },
+  {
+    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-culegeri-de-legislatie",
+    "title": "Redactor culegeri de legislație",
+    "company": "UNIVERSUL PLANTAȚIILOR S.R.L.",
+    "location": [
+      "Remote",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:14:28.136Z",
+    "status": "scraped",
+    "tags": [
+      "legislatie",
+      "drept"
+    ],
+    "matchPercentage": 75,
+    "reason": "Redactare culegeri de legislatie, utilizeaza direct interpretarea legislativa."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "RM TOP BUILDCONS S.R.L.",
+    "location": [
+      "Municipiul ramnicu valcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:29.059Z",
+    "status": "scraped",
+    "tags": [
+      "administrație publică",
+      "drept UE"
     ],
     "matchPercentage": 70,
-    "reason": "Consultant în fonduri europene, domeniu direct relevant, fără indicii de senioritate."
+    "reason": "Poziție de inspector în administrația publică, relevantă pentru implementarea reglementărilor UE, la nivel entry-level."
+  },
+  {
+    "url": "https://www.antal.com/job-search/616816-Legal-Counsel-Construction-and-Public-Procurement",
+    "title": "Legal Counsel | Construction and Public Procurement",
+    "company": "ANTAL SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:15:37.911Z",
+    "status": "scraped",
+    "tags": [
+      "achiziții publice",
+      "drept UE"
+    ],
+    "matchPercentage": 65,
+    "reason": "Domeniul achizițiilor publice se leagă parțial de accesarea fondurilor europene, însă rolul de Legal Counsel este preponderent juridic și probabil necesită calificare în Drept."
   }
 ]
