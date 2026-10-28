@@ -11,11 +11,11 @@
     "date": "2026-10-17T11:59:22.731Z",
     "status": "scraped",
     "tags": [
-      "fonduri europene",
-      "raportare"
+      "fonduri",
+      "proiecte"
     ],
-    "matchPercentage": 90,
-    "reason": "Gestionarea ciclului complet al proiectelor cu finantare europeana si nationala, foarte relevant."
+    "matchPercentage": 95,
+    "reason": "Ciclu complet proiecte fonduri europene/naționale, nivel medior potrivit profilului."
   },
   {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
@@ -30,10 +30,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "consultanță"
+      "proiecte europene"
     ],
-    "matchPercentage": 88,
-    "reason": "Consultanță directă în fonduri europene, potrivită pentru absolvent sau junior cu competențe de accesare și management de proiect."
+    "matchPercentage": 90,
+    "reason": "Consultant fonduri europene, potrivit competențelor de accesare și management proiecte."
   },
   {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
@@ -48,10 +48,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "consultanță"
+      "proiecte europene"
     ],
-    "matchPercentage": 88,
-    "reason": "Rol direct în consultanță pentru fonduri europene, cu aplicare clară a competențelor de finanțare și proiecte."
+    "matchPercentage": 90,
+    "reason": "Consultant fonduri europene, potrivit accesării și redactării cererilor."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
@@ -66,64 +66,81 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "accesare finanțare"
+      "proiecte europene"
     ],
     "matchPercentage": 85,
-    "reason": "Specialist fonduri europene este o poziție relevantă, cu nivel probabil entry/mid și sarcini de accesare a finanțării."
+    "reason": "Specialist fonduri europene, potrivit competențelor de consultanță."
   },
   {
-    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
-    "title": "consultanta fonduri europene",
-    "company": "JUNIOR GROUP SRL",
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
+    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
     "location": [
-      "Constanta",
-      "Romania"
+      "România"
     ],
     "salary": null,
-    "date": "2026-10-17T12:04:11.925Z",
+    "date": "2026-10-27T11:40:11.702Z",
     "status": "scraped",
     "tags": [
-      "fonduri europene",
-      "proiecte"
-    ],
-    "matchPercentage": 80,
-    "reason": "Consultanta in fonduri europene, domeniu direct relevant pentru competentele tale."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
-    "title": "CONSILIER ADMINISTRATIA PUBLICA",
-    "company": "RM TOP BUILDCONS S.R.L.",
-    "location": [
-      "Municipiul ramnicu valcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:09:29.059Z",
-    "status": "scraped",
-    "tags": [
-      "administrație publică",
-      "politică publică"
+      "cercetare",
+      "analiza"
     ],
     "matchPercentage": 75,
-    "reason": "Poziție de consilier în administrația publică, domeniu relevant pentru guvernanță europeană și la nivel entry-level."
+    "reason": "Cercetare sociala, potrivita pentru analiza politica si sinteza"
   },
   {
-    "url": "https://oferimdemunca.ro/job/functionar-economic-delcarant-vamal/",
-    "title": "Functionar Economic/Declarant Vamal",
-    "company": "SMART OUTSOURCING SERVICES S.R.L.",
+    "url": "https://www.prohuman.ro/candidati/jobs/Redactor-TL-editura",
+    "title": "Redactor/TL editura",
+    "company": "PROHUMAN APT S.R.L.",
     "location": [
-      "București",
+      "Oradea",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:19:17.005Z",
+    "date": "2026-10-17T12:08:49.935Z",
+    "status": "scraped",
+    "tags": [
+      "editorial",
+      "politici"
+    ],
+    "matchPercentage": 75,
+    "reason": "Activitate editoriala in domeniul educational/legislativ relevant."
+  },
+  {
+    "url": "https://www.prohuman.ro/candidati/jobs/Redactor-TL-editura-Oradea",
+    "title": "Redactor/TL editura",
+    "company": "PROHUMAN APT S.R.L.",
+    "location": [
+      "Oradea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:04:35.743Z",
+    "status": "scraped",
+    "tags": [
+      "editorial",
+      "politici"
+    ],
+    "matchPercentage": 75,
+    "reason": "Activitate editoriala in domeniul educational/legislativ relevant."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272857/Meya-Pro/Legal-Advisor(Junior-/-Middle-Level)",
+    "title": "Legal Advisor(Junior / Middle Level)",
+    "company": "MEYA PRO S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:17:08.713Z",
     "status": "scraped",
     "tags": [
       "drept UE",
-      "comerț internațional"
+      "juridic"
     ],
-    "matchPercentage": 75,
-    "reason": "Declarant vamal - activitate strâns legată de dreptul vamal UE și comerțul internațional."
+    "matchPercentage": 70,
+    "reason": "Consiliere juridica junior/mid, util pentru dreptul UE"
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/redactor-culegeri-de-legislatie",
@@ -138,45 +155,27 @@
     "status": "scraped",
     "tags": [
       "legislatie",
-      "drept"
-    ],
-    "matchPercentage": 75,
-    "reason": "Redactare culegeri de legislatie, utilizeaza direct interpretarea legislativa."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
-    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
-    "company": "RM TOP BUILDCONS S.R.L.",
-    "location": [
-      "Municipiul ramnicu valcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:09:29.059Z",
-    "status": "scraped",
-    "tags": [
-      "administrație publică",
-      "drept UE"
+      "redactare"
     ],
     "matchPercentage": 70,
-    "reason": "Poziție de inspector în administrația publică, relevantă pentru implementarea reglementărilor UE, la nivel entry-level."
+    "reason": "Redactare legislatie relevanta pentru drept UE."
   },
   {
-    "url": "https://www.antal.com/job-search/616816-Legal-Counsel-Construction-and-Public-Procurement",
-    "title": "Legal Counsel | Construction and Public Procurement",
-    "company": "ANTAL SRL",
+    "url": "https://turbomecanica.ro/job/administrator-contract-client/",
+    "title": "Administrator contract client",
+    "company": "TURBOMECANICA SA",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:15:37.911Z",
+    "date": "2026-10-27T11:16:12.232Z",
     "status": "scraped",
     "tags": [
-      "achiziții publice",
-      "drept UE"
+      "negociere",
+      "comunicare interculturală"
     ],
     "matchPercentage": 65,
-    "reason": "Domeniul achizițiilor publice se leagă parțial de accesarea fondurilor europene, însă rolul de Legal Counsel este preponderent juridic și probabil necesită calificare în Drept."
+    "reason": "Afaceri internaționale/comerț exterior cu elemente de contractare și control export, relevant parțial pentru diplomație și afaceri europene."
   }
 ]
