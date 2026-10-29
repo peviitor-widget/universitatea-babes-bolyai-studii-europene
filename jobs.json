@@ -11,11 +11,11 @@
     "date": "2026-10-17T11:59:22.731Z",
     "status": "scraped",
     "tags": [
-      "fonduri",
-      "proiecte"
+      "fonduri europene",
+      "management proiect"
     ],
-    "matchPercentage": 95,
-    "reason": "Ciclu complet proiecte fonduri europene/naționale, nivel medior potrivit profilului."
+    "matchPercentage": 90,
+    "reason": "Consultanță pe fonduri europene la nivel medior, cu atribuții directe de redactare, implementare și raportare."
   },
   {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
@@ -30,10 +30,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "proiecte europene"
+      "cereri finanțare"
     ],
-    "matchPercentage": 90,
-    "reason": "Consultant fonduri europene, potrivit competențelor de accesare și management proiecte."
+    "matchPercentage": 88,
+    "reason": "Consultant fonduri europene, potrivire directă cu accesarea și scrierea cererilor de finanțare."
   },
   {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
@@ -48,10 +48,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "proiecte europene"
+      "consultanță"
     ],
-    "matchPercentage": 90,
-    "reason": "Consultant fonduri europene, potrivit accesării și redactării cererilor."
+    "matchPercentage": 88,
+    "reason": "Consultant fonduri europene, rol direct pe consultanță și accesare de finanțare europeană."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
@@ -66,10 +66,82 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "proiecte europene"
+      "accesare finanțare"
+    ],
+    "matchPercentage": 86,
+    "reason": "Specialist fonduri europene, sarcinile vizează direct accesarea și gestionarea finanțărilor."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
+    "title": "consultanta fonduri europene",
+    "company": "JUNIOR GROUP SRL",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:04:11.925Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "consultanță"
     ],
     "matchPercentage": 85,
-    "reason": "Specialist fonduri europene, potrivit competențelor de consultanță."
+    "reason": "Consultanță în fonduri europene, aliniată direct competențelor de accesare și gestionare a finanțărilor."
+  },
+  {
+    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
+    "title": "Expert accesare Fonduri Europene",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Resita",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:33.969Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "accesare finanțare"
+    ],
+    "matchPercentage": 80,
+    "reason": "Expert accesare fonduri europene, domeniu direct și nivel compatibil cu un rol mid."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "RM TOP BUILDCONS S.R.L.",
+    "location": [
+      "Municipiul ramnicu valcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:29.059Z",
+    "status": "scraped",
+    "tags": [
+      "administrație publică",
+      "politici publice"
+    ],
+    "matchPercentage": 74,
+    "reason": "Post entry-level in administratia publica, potrivit pentru competentele de guvernanta si politici publice."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "RM TOP BUILDCONS S.R.L.",
+    "location": [
+      "Municipiul ramnicu valcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:29.059Z",
+    "status": "scraped",
+    "tags": [
+      "administrație publică",
+      "politici publice"
+    ],
+    "matchPercentage": 74,
+    "reason": "Post entry-level de inspector in administratia publica, relevant pentru formarea in guvernanta."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
@@ -79,103 +151,80 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-10-27T11:40:11.702Z",
+    "date": "2026-10-28T12:12:31.245Z",
     "status": "scraped",
     "tags": [
-      "cercetare",
-      "analiza"
+      "cercetare documentară",
+      "analiză politică"
     ],
-    "matchPercentage": 75,
-    "reason": "Cercetare sociala, potrivita pentru analiza politica si sinteza"
+    "matchPercentage": 72,
+    "reason": "Trainee în cercetare socială, cu sarcini de documentare, analiză și raportare pe teme politice și sociale."
   },
   {
-    "url": "https://www.prohuman.ro/candidati/jobs/Redactor-TL-editura",
-    "title": "Redactor/TL editura",
-    "company": "PROHUMAN APT S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156792589-project-management-support",
+    "title": "Project Management Support",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Oradea",
+      "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:08:49.935Z",
+    "date": "2026-10-28T12:30:56.601Z",
     "status": "scraped",
     "tags": [
-      "editorial",
-      "politici"
-    ],
-    "matchPercentage": 75,
-    "reason": "Activitate editoriala in domeniul educational/legislativ relevant."
-  },
-  {
-    "url": "https://www.prohuman.ro/candidati/jobs/Redactor-TL-editura-Oradea",
-    "title": "Redactor/TL editura",
-    "company": "PROHUMAN APT S.R.L.",
-    "location": [
-      "Oradea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:04:35.743Z",
-    "status": "scraped",
-    "tags": [
-      "editorial",
-      "politici"
-    ],
-    "matchPercentage": 75,
-    "reason": "Activitate editoriala in domeniul educational/legislativ relevant."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/272857/Meya-Pro/Legal-Advisor(Junior-/-Middle-Level)",
-    "title": "Legal Advisor(Junior / Middle Level)",
-    "company": "MEYA PRO S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:17:08.713Z",
-    "status": "scraped",
-    "tags": [
-      "drept UE",
-      "juridic"
-    ],
-    "matchPercentage": 70,
-    "reason": "Consiliere juridica junior/mid, util pentru dreptul UE"
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-culegeri-de-legislatie",
-    "title": "Redactor culegeri de legislație",
-    "company": "UNIVERSUL PLANTAȚIILOR S.R.L.",
-    "location": [
-      "Remote",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:28.136Z",
-    "status": "scraped",
-    "tags": [
-      "legislatie",
-      "redactare"
-    ],
-    "matchPercentage": 70,
-    "reason": "Redactare legislatie relevanta pentru drept UE."
-  },
-  {
-    "url": "https://turbomecanica.ro/job/administrator-contract-client/",
-    "title": "Administrator contract client",
-    "company": "TURBOMECANICA SA",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-27T11:16:12.232Z",
-    "status": "scraped",
-    "tags": [
-      "negociere",
-      "comunicare interculturală"
+      "management proiect"
     ],
     "matchPercentage": 65,
-    "reason": "Afaceri internaționale/comerț exterior cu elemente de contractare și control export, relevant parțial pentru diplomație și afaceri europene."
+    "reason": "Suport management proiect, relevant parțial pentru proiecte europene"
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152838741-working-student-purchasing-project-management",
+    "title": "Working Student - Purchasing Project Management",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-28T12:30:56.601Z",
+    "status": "scraped",
+    "tags": [
+      "management proiect"
+    ],
+    "matchPercentage": 65,
+    "reason": "Working student management proiect achiziții, parțial relevant"
+  },
+  {
+    "url": "https://apply.workable.com/j/730DB80714",
+    "title": "Business Change Project Manager",
+    "company": "SEDONA DIGITAL S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-28T12:24:22.033Z",
+    "status": "scraped",
+    "tags": [
+      "management proiect"
+    ],
+    "matchPercentage": 65,
+    "reason": "Business Change Project Manager, management proiect parțial relevant"
+  },
+  {
+    "url": "https://apply.workable.com/j/12E15E56ED",
+    "title": "Senior Project Manager",
+    "company": "FME SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-28T12:20:44.723Z",
+    "status": "scraped",
+    "tags": [
+      "management proiect"
+    ],
+    "matchPercentage": 65,
+    "reason": "Senior Project Manager migrare date, management proiect parțial relevant"
   }
 ]
