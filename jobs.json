@@ -12,10 +12,46 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "management de proiect"
+      "management proiect"
     ],
-    "matchPercentage": 92,
-    "reason": "Consultant fonduri europene nivel medior, gestionând direct ciclul proiectelor și cererilor de finanțare."
+    "matchPercentage": 90,
+    "reason": "Consultant în fonduri europene la nivel medior, cu sarcini directe de redactare, implementare și raportare a proiectelor finanțate."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
+    "title": "Consultant Fonduri Europene",
+    "company": "DGA EXPERT INVEST INTERNATIONAL S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:22:14.906Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "accesare finantare"
+    ],
+    "matchPercentage": 85,
+    "reason": "Consultanta pentru fonduri europene foloseste direct competentele de accesare si management de proiecte europene la nivel entry/mid."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
+    "title": "Consultant Fonduri Europene – București, Hybrid",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:21:59.558Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "management proiecte"
+    ],
+    "matchPercentage": 85,
+    "reason": "Consultant fonduri europene, potrivire directa cu competentele de scriere si gestionare a cererilor de finantare."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
@@ -30,9 +66,80 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "consultanță"
+      "oportunitati finantare"
     ],
-    "matchPercentage": 90,
-    "reason": "Rolul vizează direct consultanță și accesare de fonduri europene, compatibil cu competențele tale."
+    "matchPercentage": 84,
+    "reason": "Specialist fonduri europene, sarcini de identificare si accesare a finantarii europene relevante pentru profil."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "RM TOP BUILDCONS S.R.L.",
+    "location": [
+      "Municipiul ramnicu valcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:29.059Z",
+    "status": "scraped",
+    "tags": [
+      "administrație publică",
+      "guvernanță"
+    ],
+    "matchPercentage": 82,
+    "reason": "Post entry-level în administrația publică, direct relevant pentru guvernanță."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
+    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "RM TOP BUILDCONS S.R.L.",
+    "location": [
+      "Municipiul ramnicu valcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:29.059Z",
+    "status": "scraped",
+    "tags": [
+      "administrație publică",
+      "politici publice"
+    ],
+    "matchPercentage": 80,
+    "reason": "Inspector de specialitate entry-level în administrația publică, aliniat domeniului tău."
+  },
+  {
+    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
+    "title": "Expert accesare Fonduri Europene",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Resita",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:33.969Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "consulanta"
+    ],
+    "matchPercentage": 78,
+    "reason": "Expert accesare fonduri europene, domeniu relevant, desi titulatura sugereaza un nivel usor peste entry."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
+    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-10-30T12:13:27.277Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare documentară",
+      "analiză statistică"
+    ],
+    "matchPercentage": 65,
+    "reason": "Trainee în cercetare socială folosește cercetarea documentară, analiza datelor și redactarea de rapoarte, cu cerință de germană, dar domeniul este doar parțial suprapus."
   }
 ]
