@@ -14,8 +14,8 @@
       "fonduri europene",
       "management proiect"
     ],
-    "matchPercentage": 92,
-    "reason": "Consultant fonduri europene nivel medior, cu ciclu complet de redactare, implementare, monitorizare și raportare a proiectelor."
+    "matchPercentage": 88,
+    "reason": "Consultant fonduri europene nivel medior, acoperă ciclul complet al proiectelor, potrivire directă de domeniu și nivel."
   },
   {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
@@ -30,10 +30,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "management de proiect"
+      "consultanță"
     ],
-    "matchPercentage": 88,
-    "reason": "Consultanță pentru fonduri europene, folosind direct competențele de accesare și management de proiecte."
+    "matchPercentage": 87,
+    "reason": "Consultanță în fonduri europene, potrivire directă cu competențele de accesare și management de proiecte europene."
   },
   {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
@@ -48,10 +48,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "scriere cereri finanțare"
+      "consultanță"
     ],
-    "matchPercentage": 88,
-    "reason": "Consultant fonduri europene, potrivire directă cu competențele de scriere și gestionare a cererilor de finanțare."
+    "matchPercentage": 87,
+    "reason": "Consultanță în fonduri europene, aliniată direct cu profilul de accesare a finanțărilor UE."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
@@ -68,8 +68,44 @@
       "fonduri europene",
       "consultanță"
     ],
-    "matchPercentage": 85,
-    "reason": "Specialist fonduri europene, sarcinile corespund direct consultanței și accesării finanțării europene."
+    "matchPercentage": 84,
+    "reason": "Specialist în fonduri europene, domeniu direct relevant pentru consultanță și accesare de finanțare."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
+    "title": "consultanta fonduri europene",
+    "company": "JUNIOR GROUP SRL",
+    "location": [
+      "Constanta",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:04:11.925Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "consultanță"
+    ],
+    "matchPercentage": 82,
+    "reason": "Consultanță în fonduri europene, potrivire directă cu competențele de accesare a finanțării la nivel entry/junior."
+  },
+  {
+    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
+    "title": "Expert accesare Fonduri Europene",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Resita",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:20:33.969Z",
+    "status": "scraped",
+    "tags": [
+      "accesare fonduri",
+      "consultanță"
+    ],
+    "matchPercentage": 76,
+    "reason": "Accesare de fonduri europene, domeniu direct relevant, cu nivel compatibil de expert/consultanță."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
@@ -79,14 +115,32 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-09T15:19:29.675Z",
+    "date": "2026-11-10T14:24:57.251Z",
     "status": "scraped",
     "tags": [
       "cercetare documentară",
-      "analiză politică"
+      "sinteză de politici"
     ],
-    "matchPercentage": 65,
-    "reason": "Trainee în cercetare socială pe teme politice și societale, valorifică cercetarea documentară și analiza la nivel entry."
+    "matchPercentage": 68,
+    "reason": "Trainee in cercetare sociala pe teme politice si de societate, foloseste cercetarea documentara, sinteza si redactarea de rapoarte, iar nivelul si limba germana se potrivesc."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "RM TOP BUILDCONS S.R.L.",
+    "location": [
+      "Municipiul ramnicu valcea",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:09:29.059Z",
+    "status": "scraped",
+    "tags": [
+      "administrație publică",
+      "guvernanță"
+    ],
+    "matchPercentage": 68,
+    "reason": "Post entry-level de consilier în administrația publică, domeniu parțial potrivit competențelor de guvernanță."
   },
   {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
@@ -103,26 +157,8 @@
       "administrație publică",
       "politici publice"
     ],
-    "matchPercentage": 65,
-    "reason": "Inspector de specialitate în administrația publică, fără experiență, relevant pentru guvernanță publică."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-culegeri-de-legislatie",
-    "title": "Redactor culegeri de legislație",
-    "company": "UNIVERSUL PLANTAȚIILOR S.R.L.",
-    "location": [
-      "Remote",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:28.136Z",
-    "status": "scraped",
-    "tags": [
-      "interpretare legislativă",
-      "cercetare documentară"
-    ],
-    "matchPercentage": 65,
-    "reason": "Redactarea de culegeri de legislație la o editură juridică folosește direct interpretarea legislativă și cercetarea documentară, la nivel entry-level."
+    "matchPercentage": 68,
+    "reason": "Post entry-level de inspector în administrația publică, domeniu parțial potrivit."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160642349-project-management-associate",
@@ -133,31 +169,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-09T15:48:17.854Z",
+    "date": "2026-11-10T14:39:30.855Z",
     "status": "scraped",
     "tags": [
       "management de proiect",
-      "monitorizare proiecte"
+      "raportare"
     ],
-    "matchPercentage": 62,
-    "reason": "Poziție entry-level de suport în managementul proiectelor într-un mediu internațional, potrivire parțială cu competențele de monitorizare și coordonare a proiectelor."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
-    "title": "CONSILIER ADMINISTRATIA PUBLICA",
-    "company": "RM TOP BUILDCONS S.R.L.",
-    "location": [
-      "Municipiul ramnicu valcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:09:29.059Z",
-    "status": "scraped",
-    "tags": [
-      "administrație publică",
-      "politici publice"
-    ],
-    "matchPercentage": 62,
-    "reason": "Consilier în administrația publică, entry-level, se potrivește parțial domeniului de administrație publică."
+    "matchPercentage": 60,
+    "reason": "Rol entry-level de suport în management de proiect, cu monitorizare și raportare, dar fără componentă europeană sau de fonduri UE."
   }
 ]
