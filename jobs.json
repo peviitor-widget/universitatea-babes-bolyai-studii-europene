@@ -12,10 +12,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "consultanță"
+      "management de proiect"
     ],
-    "matchPercentage": 87,
-    "reason": "Consultanță în fonduri europene, folosind direct competențele de accesare și scriere de cereri de finanțare."
+    "matchPercentage": 85,
+    "reason": "Consultanță în fonduri europene folosește direct accesarea finanțării și managementul de proiect."
   },
   {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
@@ -30,10 +30,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "management proiecte"
+      "cereri de finanțare"
     ],
-    "matchPercentage": 86,
-    "reason": "Consultanță în fonduri europene, aliniată competențelor de identificare a surselor de finanțare și management de proiect."
+    "matchPercentage": 85,
+    "reason": "Consultanță fonduri europene, potrivire directă pe accesarea finanțării."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
@@ -48,10 +48,46 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "accesare finanțare"
+      "programe europene"
     ],
-    "matchPercentage": 85,
-    "reason": "Specialist fonduri europene, potrivit competențelor de accesare și monitorizare a finanțărilor UE."
+    "matchPercentage": 82,
+    "reason": "Specialist fonduri europene, sarcinile vizează direct accesarea și monitorizarea finanțărilor."
+  },
+  {
+    "url": "https://www.undelucram.ro/ro/locuri-de-munca/manager-de-proiect-fonduri-europene/99749",
+    "title": "Manager de Proiect Fonduri Europene",
+    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T12:14:28.973Z",
+    "status": "scraped",
+    "tags": [
+      "management proiect",
+      "fonduri europene"
+    ],
+    "matchPercentage": 80,
+    "reason": "Rol de management al proiectelor cu finanțare europeană, direct pe competențele de management de proiect și accesare de fonduri."
+  },
+  {
+    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271267/PPC-ROMANIA/Manager-de-Proiect-Fonduri-Europene",
+    "title": "Manager de Proiect Fonduri Europene",
+    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T11:59:45.053Z",
+    "status": "scraped",
+    "tags": [
+      "management proiect",
+      "fonduri europene"
+    ],
+    "matchPercentage": 78,
+    "reason": "Manager de proiect fonduri europene, potrivire directă pe management de proiect și finanțări europene."
   },
   {
     "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
@@ -66,64 +102,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "scriere cereri"
+      "consultanță"
     ],
-    "matchPercentage": 80,
-    "reason": "Expert în accesare fonduri europene, domeniu direct relevant la nivel mid."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396564",
-    "title": "CONSILIER ADMINISTRATIA PUBLICA",
-    "company": "RM TOP BUILDCONS S.R.L.",
-    "location": [
-      "Municipiul ramnicu valcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:09:29.059Z",
-    "status": "scraped",
-    "tags": [
-      "administrație publică",
-      "politici publice"
-    ],
-    "matchPercentage": 72,
-    "reason": "Post de consilier în administrația publică, entry-level, potrivit domeniului administrație și guvernanță."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3396682",
-    "title": "INSPECTOR DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
-    "company": "RM TOP BUILDCONS S.R.L.",
-    "location": [
-      "Municipiul ramnicu valcea",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:09:29.059Z",
-    "status": "scraped",
-    "tags": [
-      "administrație publică",
-      "guvernanță"
-    ],
-    "matchPercentage": 72,
-    "reason": "Post de inspector de specialitate în administrația publică, fără experiență, relevant pentru profil."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160642349-project-management-associate",
-    "title": "Project Management Associate",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-10T14:39:30.855Z",
-    "status": "scraped",
-    "tags": [
-      "management de proiect",
-      "raportare"
-    ],
-    "matchPercentage": 65,
-    "reason": "Poziție entry-level de suport în managementul proiectelor într-un mediu internațional, potrivire parțială: folosește planificarea și raportarea de proiect, dar în context industrial, nu proiecte europene."
+    "matchPercentage": 75,
+    "reason": "Accesare fonduri europene, domeniu direct dar titlul de expert poate implica experiență mai mare."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
@@ -137,26 +119,27 @@
     "status": "scraped",
     "tags": [
       "cercetare documentară",
-      "analiză statistică"
+      "redactare rapoarte"
     ],
-    "matchPercentage": 65,
-    "reason": "Cercetare socială și sondaje, potrivire parțială cu cercetarea documentară și analiza statistică."
+    "matchPercentage": 68,
+    "reason": "Trainee în cercetare socială cu documentare, rapoarte și analiză pe teme politice/sociale, potrivire parțială."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159581609-project-manager-officer",
-    "title": "Project Manager Officer",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-culegeri-de-legislatie",
+    "title": "Redactor culegeri de legislație",
+    "company": "UNIVERSUL PLANTAȚIILOR S.R.L.",
     "location": [
-      "România"
+      "Remote",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-10T14:39:30.855Z",
+    "date": "2026-10-17T12:14:28.136Z",
     "status": "scraped",
     "tags": [
-      "management de proiect",
-      "planificare"
+      "interpretare legislativă",
+      "redactare"
     ],
     "matchPercentage": 60,
-    "reason": "Rol PMO de aplicare a standardelor și portfolio management-ului de proiect, potrivire parțială la nivel mid, dar în context industrial, nu proiecte europene."
+    "reason": "Redactarea culegerilor de legislație la o editură juridică folosește direct interpretarea legislativă și redactarea, la nivel entry, de acasă."
   }
 ]
