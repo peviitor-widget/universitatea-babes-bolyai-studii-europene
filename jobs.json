@@ -1,5 +1,23 @@
 [
   {
+    "url": "https://dreamjobs.ro/ro/job/startuphub/consultant-in-fonduri-europene-2",
+    "title": "Consultant în fonduri europene",
+    "company": "STARTUP WORKSPACE S.R.L.",
+    "location": [
+      "Marosvasarhely",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-10-17T11:59:22.731Z",
+    "status": "scraped",
+    "tags": [
+      "fonduri europene",
+      "management de proiect"
+    ],
+    "matchPercentage": 90,
+    "reason": "Consultant fonduri europene nivel medior, gestionare ciclu complet de proiecte europene și naționale, potrivire directă."
+  },
+  {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene/2023",
     "title": "Consultant Fonduri Europene",
     "company": "DGA EXPERT INVEST INTERNATIONAL S.R.L.",
@@ -12,10 +30,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "management de proiect"
+      "consultanță"
     ],
-    "matchPercentage": 85,
-    "reason": "Consultanță în fonduri europene folosește direct accesarea finanțării și managementul de proiect."
+    "matchPercentage": 86,
+    "reason": "Consultanță pentru fonduri europene, folosind direct competențele de accesare și gestionare a finanțărilor."
   },
   {
     "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
@@ -30,10 +48,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "cereri de finanțare"
+      "management proiecte"
     ],
     "matchPercentage": 85,
-    "reason": "Consultanță fonduri europene, potrivire directă pe accesarea finanțării."
+    "reason": "Rol de consultant fonduri europene, aliniat cu competențele de scriere și management de proiecte finanțate."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/specialist-fonduri-europene-4",
@@ -48,46 +66,10 @@
     "status": "scraped",
     "tags": [
       "fonduri europene",
-      "programe europene"
+      "accesare finanțare"
     ],
-    "matchPercentage": 82,
-    "reason": "Specialist fonduri europene, sarcinile vizează direct accesarea și monitorizarea finanțărilor."
-  },
-  {
-    "url": "https://www.undelucram.ro/ro/locuri-de-munca/manager-de-proiect-fonduri-europene/99749",
-    "title": "Manager de Proiect Fonduri Europene",
-    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
-    "location": [
-      "București",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T12:14:28.973Z",
-    "status": "scraped",
-    "tags": [
-      "management proiect",
-      "fonduri europene"
-    ],
-    "matchPercentage": 80,
-    "reason": "Rol de management al proiectelor cu finanțare europeană, direct pe competențele de management de proiect și accesare de fonduri."
-  },
-  {
-    "url": "https://www.hipo.ro/locuri-de-munca/locuri_de_munca/271267/PPC-ROMANIA/Manager-de-Proiect-Fonduri-Europene",
-    "title": "Manager de Proiect Fonduri Europene",
-    "company": "PPC PRODUCTIE ROMANIA S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-10-17T11:59:45.053Z",
-    "status": "scraped",
-    "tags": [
-      "management proiect",
-      "fonduri europene"
-    ],
-    "matchPercentage": 78,
-    "reason": "Manager de proiect fonduri europene, potrivire directă pe management de proiect și finanțări europene."
+    "matchPercentage": 84,
+    "reason": "Specialist fonduri europene, cu atribuții directe de accesare și monitorizare a finanțărilor."
   },
   {
     "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
@@ -101,11 +83,11 @@
     "date": "2026-10-17T12:20:33.969Z",
     "status": "scraped",
     "tags": [
-      "fonduri europene",
-      "consultanță"
+      "accesare fonduri",
+      "elaborare proiecte"
     ],
-    "matchPercentage": 75,
-    "reason": "Accesare fonduri europene, domeniu direct dar titlul de expert poate implica experiență mai mare."
+    "matchPercentage": 78,
+    "reason": "Accesare de fonduri europene, domeniu direct relevant, deși nivelul de expert poate implica experiență peste entry-level."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
@@ -115,31 +97,31 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-10T14:24:57.251Z",
+    "date": "2026-11-11T13:38:51.818Z",
     "status": "scraped",
     "tags": [
-      "cercetare documentară",
-      "redactare rapoarte"
+      "analiză politică",
+      "cercetare documentară"
     ],
     "matchPercentage": 68,
-    "reason": "Trainee în cercetare socială cu documentare, rapoarte și analiză pe teme politice/sociale, potrivire parțială."
+    "reason": "Cercetare socială pe teme politice și societale, la nivel de trainee, cu activități de documentare, raportare și analiză cantitativă relevante parțial."
   },
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/redactor-culegeri-de-legislatie",
-    "title": "Redactor culegeri de legislație",
-    "company": "UNIVERSUL PLANTAȚIILOR S.R.L.",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161085289-project-management-associate",
+    "title": "Project Management Associate",
+    "company": "ROBERT BOSCH SRL",
     "location": [
-      "Remote",
+      "Cluj-Napoca",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-10-17T12:14:28.136Z",
+    "date": "2026-11-11T13:55:02.560Z",
     "status": "scraped",
     "tags": [
-      "interpretare legislativă",
-      "redactare"
+      "management proiecte",
+      "planificare"
     ],
-    "matchPercentage": 60,
-    "reason": "Redactarea culegerilor de legislație la o editură juridică folosește direct interpretarea legislativă și redactarea, la nivel entry, de acasă."
+    "matchPercentage": 65,
+    "reason": "Rol entry-level de suport și monitorizare proiecte, potrivit parțial pentru competențele de management de proiect."
   }
 ]
