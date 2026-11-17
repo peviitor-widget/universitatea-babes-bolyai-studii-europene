@@ -1,19 +1,38 @@
 [
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
-    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://multijobs.ro/job/auditor-public-internin-baza-legii-nr-672-2002/5860",
+    "title": "Auditor public intern(în baza legii nr. 672/2002)",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "România"
+      "Bucuresti",
+      "Romania"
     ],
     "salary": null,
-    "date": "2026-11-15T13:29:29.547Z",
-    "status": "scraped",
+    "date": "2026-11-17T10:55:58Z",
+    "status": "tested",
     "tags": [
-      "cercetare documentară",
-      "analiză politică"
+      "audit",
+      "guvernanță"
     ],
     "matchPercentage": 65,
-    "reason": "Cercetare socială pe teme de politică și media, cu raportare și analiză, se potrivește parțial profilului și nivelului de trainee."
+    "reason": "Auditul public intern vizează guvernanță în administrație și control bugetar, competențe din profil, iar nivelul nu este unul de senior/lead."
+  },
+  {
+    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
+    "title": "Junior News Editor",
+    "company": "CROSS WORK S.R.L.",
+    "location": [
+      "Iași",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:02:07Z",
+    "status": "tested",
+    "tags": [
+      "analiză conținut",
+      "comunicare instituțională"
+    ],
+    "matchPercentage": 65,
+    "reason": "Rolul de editor junior de știri folosește competențe de analiză de conținut și redactare, iar nivelul entry-level e potrivit, deși subiectul fintech nu e specific european."
   }
 ]
