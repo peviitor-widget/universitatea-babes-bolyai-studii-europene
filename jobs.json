@@ -1,21 +1,39 @@
 [
   {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
-    "title": "Consultant Fonduri Europene Junior/Senior Pitesti",
-    "company": "FORUM PROIECT INVEST SRL",
+    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
+    "title": "Junior News Editor",
+    "company": "CROSS WORK S.R.L.",
     "location": [
-      "Pitești",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T09:28:12Z",
+    "date": "2026-11-17T10:02:07Z",
     "status": "tested",
     "tags": [
-      "fonduri europene",
-      "cereri finanțare"
+      "analiză conținut",
+      "redactare"
     ],
-    "matchPercentage": 88,
-    "reason": "Poziție de consultant fonduri europene cu variantă junior, exact în domeniul accesării și gestionării finanțărilor europene."
+    "matchPercentage": 82,
+    "reason": "Rolul de Junior News Editor presupune redactare, editare și analiză de conținut, competențe specifice jurnalismului, la nivel junior."
+  },
+  {
+    "url": "https://multijobs.ro/job/auditor-public-internin-baza-legii-nr-672-2002/5860",
+    "title": "Auditor public intern(în baza legii nr. 672/2002)",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T10:55:58Z",
+    "status": "tested",
+    "tags": [
+      "audit",
+      "administrație publică"
+    ],
+    "matchPercentage": 70,
+    "reason": "Auditul public intern conform Legii 672/2002 folosește direct competențele de audit și analiză bugetară din administrația publică, fără cerință de nivel senior."
   },
   {
     "url": "https://everymatrix.teamtailor.com/jobs/8679989-trainee-tax-analyst",
@@ -29,29 +47,11 @@
     "date": "2026-11-17T15:01:32Z",
     "status": "tested",
     "tags": [
-      "drept fiscal",
-      "analiză financiară"
+      "fiscal european",
+      "analiză bugetară"
     ],
-    "matchPercentage": 78,
-    "reason": "Rol de trainee în analiză fiscală, cu conformitate, raportări și relația cu autoritățile fiscale, folosind direct dreptul fiscal și analiza financiară."
-  },
-  {
-    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
-    "title": "Junior News Editor",
-    "company": "CROSS WORK S.R.L.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:02:07Z",
-    "status": "tested",
-    "tags": [
-      "analiză conținut",
-      "relații presă"
-    ],
-    "matchPercentage": 70,
-    "reason": "Rol editorial junior care folosește analiza de conținut, redactarea și relațiile cu presa, nivelul și engleza C1 potrivindu-se, deși subiectul e fintech."
+    "matchPercentage": 68,
+    "reason": "Nivelul de trainee și sarcinile de conformitate fiscală internațională, raportare și relație cu autoritățile fiscale folosesc direct competențele de drept fiscal european și analiză bugetară."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
@@ -61,31 +61,49 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-18T15:10:47.374Z",
+    "date": "2026-11-19T15:18:51.402Z",
     "status": "scraped",
     "tags": [
       "cercetare documentară",
       "redactare rapoarte"
     ],
     "matchPercentage": 65,
-    "reason": "Stagiu în cercetare socială cu documentare, rapoarte și analiză de subiecte politice, nivel trainee potrivit."
+    "reason": "Trainee în cercetare socială cu sarcini de documentare, rapoarte și studii pe teme politice și sociale, nivel entry-level potrivit."
   },
   {
-    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Mioveni/Specialist-Comunicare-Interna--perioada-determinata--Mioveni--F-M-_JOBREQ_50285893",
-    "title": "Specialist Comunicare Interna (perioada determinata)_Mioveni (F/M)",
-    "company": "RENAULT SRL",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3445843",
+    "title": "FORMATOR",
+    "company": "ASOCIATIA DE CONSULTANTA SI CONSILIERE ECONOMICO-SOCIALA OLTENIA",
     "location": [
-      "Mioveni",
+      "CRAIOVA",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T12:56:56Z",
-    "status": "tested",
+    "date": "2026-11-16T12:56:12Z",
+    "status": "verified",
     "tags": [
-      "comunicare instituțională",
-      "organizare evenimente"
+      "redactare",
+      "digitale"
     ],
-    "matchPercentage": 63,
-    "reason": "Comunicare instituțională, articole și organizare de evenimente la nivel specialist pe perioadă determinată, dar în context corporate intern, nu internațional."
+    "matchPercentage": 65,
+    "reason": "Formator pe competențe digitale care elaborează materiale și studii de caz și promovează egalitatea de șanse și dezvoltarea durabilă, relevant parțial, nivel sub 3 ani."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3419258",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "PRIMARIA COMUNEI UNTENI",
+    "location": [
+      "UNTENI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:05:46Z",
+    "status": "verified",
+    "tags": [
+      "administrație publică",
+      "bugetară"
+    ],
+    "matchPercentage": 60,
+    "reason": "Consilier în administrația publică locală cu atribuții fiscale și de venituri la bugetul local, nivel sub 3 ani, deși fără componentă europeană."
   }
 ]
