@@ -12,10 +12,10 @@
     "status": "tested",
     "tags": [
       "analiză conținut",
-      "redactare"
+      "relații presă"
     ],
     "matchPercentage": 82,
-    "reason": "Rolul de Junior News Editor presupune redactare, editare și analiză de conținut, competențe specifice jurnalismului, la nivel junior."
+    "reason": "Editor de știri junior în jurnalism, nivel entry-level cu analiză de conținut și procesare comunicate de presă direct relevante."
   },
   {
     "url": "https://multijobs.ro/job/auditor-public-internin-baza-legii-nr-672-2002/5860",
@@ -30,10 +30,27 @@
     "status": "tested",
     "tags": [
       "audit",
-      "administrație publică"
+      "analiză bugetară"
+    ],
+    "matchPercentage": 78,
+    "reason": "Auditor public intern conform Legii 672/2002: funcție de audit în administrația publică ce folosește direct competențele de audit și analiză bugetară, fără cerință de senior."
+  },
+  {
+    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
+    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
+    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "location": [
+      "România"
+    ],
+    "salary": null,
+    "date": "2026-11-20T14:57:33.536Z",
+    "status": "scraped",
+    "tags": [
+      "cercetare documentară",
+      "redactare rapoarte"
     ],
     "matchPercentage": 70,
-    "reason": "Auditul public intern conform Legii 672/2002 folosește direct competențele de audit și analiză bugetară din administrația publică, fără cerință de nivel senior."
+    "reason": "Traineatul presupune documentare, redactare de rapoarte și analiză de subiecte politice și mediatice, la nivel entry-level."
   },
   {
     "url": "https://everymatrix.teamtailor.com/jobs/8679989-trainee-tax-analyst",
@@ -47,63 +64,28 @@
     "date": "2026-11-17T15:01:32Z",
     "status": "tested",
     "tags": [
-      "fiscal european",
+      "drept fiscal",
       "analiză bugetară"
     ],
-    "matchPercentage": 68,
-    "reason": "Nivelul de trainee și sarcinile de conformitate fiscală internațională, raportare și relație cu autoritățile fiscale folosesc direct competențele de drept fiscal european și analiză bugetară."
+    "matchPercentage": 66,
+    "reason": "Analiza fiscală internațională și raportarea folosesc interpretarea legislativă și analiza financiară, apropiate de dreptul fiscal european."
   },
   {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
-    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
+    "url": "https://multijobs.ro/job/referent-relatii-externe/5815",
+    "title": "REFERENT RELATII EXTERNE",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-19T15:18:51.402Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare documentară",
-      "redactare rapoarte"
-    ],
-    "matchPercentage": 65,
-    "reason": "Trainee în cercetare socială cu sarcini de documentare, rapoarte și studii pe teme politice și sociale, nivel entry-level potrivit."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3445843",
-    "title": "FORMATOR",
-    "company": "ASOCIATIA DE CONSULTANTA SI CONSILIERE ECONOMICO-SOCIALA OLTENIA",
-    "location": [
-      "CRAIOVA",
+      "Timișoara",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T12:56:12Z",
-    "status": "verified",
+    "date": "2026-11-17T12:54:14Z",
+    "status": "tested",
     "tags": [
-      "redactare",
-      "digitale"
+      "relații internaționale",
+      "diplomație"
     ],
     "matchPercentage": 65,
-    "reason": "Formator pe competențe digitale care elaborează materiale și studii de caz și promovează egalitatea de șanse și dezvoltarea durabilă, relevant parțial, nivel sub 3 ani."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3419258",
-    "title": "CONSILIER ADMINISTRATIA PUBLICA",
-    "company": "PRIMARIA COMUNEI UNTENI",
-    "location": [
-      "UNTENI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:05:46Z",
-    "status": "verified",
-    "tags": [
-      "administrație publică",
-      "bugetară"
-    ],
-    "matchPercentage": 60,
-    "reason": "Consilier în administrația publică locală cu atribuții fiscale și de venituri la bugetul local, nivel sub 3 ani, deși fără componentă europeană."
+    "reason": "Relațiile externe și funcția de referent permit folosirea parțială a competențelor de relații internaționale și diplomație, la nivel entry-level."
   }
 ]
