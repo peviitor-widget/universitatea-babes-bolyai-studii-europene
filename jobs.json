@@ -1,41 +1,5 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
-    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
-    "company": "HALLO UP SRL",
-    "location": [
-      "BUCURESTI SECTORUL 1",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "fonduri structurale",
-      "monitorizare proiecte"
-    ],
-    "matchPercentage": 95,
-    "reason": "Expertiză în fonduri structurale și de coeziune, studii superioare și sub 3 ani experiență, potrivire perfectă."
-  },
-  {
-    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
-    "title": "Consultant Fonduri Europene – București, Hybrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T11:13:18Z",
-    "status": "tested",
-    "tags": [
-      "consultanță fonduri",
-      "cereri finanțare"
-    ],
-    "matchPercentage": 90,
-    "reason": "Poziție de consultant fonduri europene care folosește direct consultanța în accesarea finanțării și scrierea cererilor, la nivel entry/mid."
-  },
-  {
     "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
     "title": "consultanta fonduri europene",
     "company": "JUNIOR GROUP SRL",
@@ -47,11 +11,11 @@
     "date": "2026-11-17T10:30:51Z",
     "status": "tested",
     "tags": [
-      "consultanță fonduri",
+      "fonduri europene",
       "cereri finanțare"
     ],
-    "matchPercentage": 90,
-    "reason": "Consultanță în fonduri europene la o firmă cu profil junior, potrivită pentru absolvenți din acest domeniu."
+    "matchPercentage": 85,
+    "reason": "Consultanța în fonduri europene folosește direct competențele de accesare și scriere a cererilor de finanțare, fără cerințe senior."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
@@ -65,64 +29,29 @@
     "date": "2026-11-17T09:28:12Z",
     "status": "tested",
     "tags": [
-      "consultanță fonduri",
+      "fonduri europene",
       "management proiect"
     ],
     "matchPercentage": 85,
-    "reason": "Poziția oferă explicit varianta Junior de consultant fonduri europene, cu sarcini de accesare a finanțărilor."
+    "reason": "Varianta Junior de consultant fonduri europene corespunde competențelor de elaborare a cererilor de finanțare și management de proiect european."
   },
   {
-    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
-    "title": "Expert accesare Fonduri Europene",
+    "url": "https://multijobs.ro/job/auditor-public-internin-baza-legii-nr-672-2002/5860",
+    "title": "Auditor public intern(în baza legii nr. 672/2002)",
     "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Resita",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:05:29Z",
-    "status": "tested",
-    "tags": [
-      "accesare fonduri",
-      "cereri finanțare"
-    ],
-    "matchPercentage": 80,
-    "reason": "Rol de expert în accesarea fondurilor europene, domeniu direct relevant, fără cerințe de experiență îndelungată specificate."
-  },
-  {
-    "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
-    "title": "Trainee in der Sozialforschung (befristet auf 1 Jahr)",
-    "company": "YOUGOV CP ROMANIA S.R.L.",
-    "location": [
-      "România"
-    ],
-    "salary": null,
-    "date": "2026-11-21T14:16:51.374Z",
-    "status": "scraped",
-    "tags": [
-      "cercetare documentară",
-      "redactare rapoarte"
-    ],
-    "matchPercentage": 72,
-    "reason": "Trainee în cercetare socială pe teme politice și media, cu cercetare documentară, rapoarte și analiză de conținut, la nivel entry-level."
-  },
-  {
-    "url": "https://everymatrix.teamtailor.com/jobs/8679989-trainee-tax-analyst",
-    "title": "Trainee Tax Analyst",
-    "company": "EVERYMATRIX SRL",
     "location": [
       "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T15:01:32Z",
+    "date": "2026-11-17T10:55:58Z",
     "status": "tested",
     "tags": [
-      "drept fiscal",
-      "analiză bugetară"
+      "audit",
+      "administrație publică"
     ],
-    "matchPercentage": 70,
-    "reason": "Trainee analist fiscal cu compliance internațional, interpretare legislativă în domeniul fiscal și analiză financiară, la nivel entry-level."
+    "matchPercentage": 85,
+    "reason": "Auditul public intern conform Legii 672/2002 folosește direct competențele de audit, analiză bugetară și administrație publică, iar titlul nu indică un nivel senior."
   },
   {
     "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
@@ -139,8 +68,44 @@
       "analiză conținut",
       "relații presă"
     ],
+    "matchPercentage": 75,
+    "reason": "Rol junior de editor cu analiză de conținut, prelucrare de comunicate de presă și engleză C1, potrivit competențelor de jurnalism și comunicare."
+  },
+  {
+    "url": "https://multijobs.ro/job/flexible-internship-in-audit-support-services-cluj-napoca-hybrid/5504",
+    "title": "Flexible Internship in Audit Support Services – Cluj-Napoca, Hybrid",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:07:06Z",
+    "status": "tested",
+    "tags": [
+      "audit",
+      "analiză bugetară"
+    ],
     "matchPercentage": 68,
-    "reason": "Rol junior de editor știri cu redactare, analiză de conținut și prelucrare de comunicate de presă în limba engleză, potrivit competențelor de jurnalism."
+    "reason": "Stagiu de suport în audit, domeniu parțial acoperit de competența mea de analiză bugetară, dar fără componentă europeană."
+  },
+  {
+    "url": "https://everymatrix.teamtailor.com/jobs/8679989-trainee-tax-analyst",
+    "title": "Trainee Tax Analyst",
+    "company": "EVERYMATRIX SRL",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T15:01:32Z",
+    "status": "tested",
+    "tags": [
+      "drept fiscal european",
+      "analiză bugetară"
+    ],
+    "matchPercentage": 65,
+    "reason": "Trainee Tax Analyst: potențială legătură cu drept fiscal european și analiză bugetară în context internațional, nivel potrivit."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration",
@@ -151,31 +116,13 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-21T14:28:00.355Z",
+    "date": "2026-11-22T14:23:45.965Z",
     "status": "scraped",
     "tags": [
       "management proiect",
       "buget"
     ],
-    "matchPercentage": 65,
-    "reason": "Working student în administrație de proiecte: nivelul e perfect, iar urmărirea planurilor și bugetului se suprapune parțial cu managementul de proiect, deși contextul e automotive."
-  },
-  {
-    "url": "https://alliancewd.wd3.myworkdayjobs.com/ro-RO/renault-group-careers/job/Mioveni/Specialist-Comunicare-Interna--perioada-determinata--Mioveni--F-M-_JOBREQ_50285893",
-    "title": "Specialist Comunicare Interna (perioada determinata)_Mioveni (F/M)",
-    "company": "RENAULT SRL",
-    "location": [
-      "Mioveni",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T12:56:56Z",
-    "status": "tested",
-    "tags": [
-      "comunicare instituțională",
-      "organizare evenimente"
-    ],
-    "matchPercentage": 64,
-    "reason": "Comunicarea internă cu articole pentru media interne, evenimente și vizite ale presei sau autorităților folosește direct comunicarea instituțională, la nivel de specialist."
+    "matchPercentage": 63,
+    "reason": "Nivel de working student cu sarcini de urmărire a planurilor, bugetului și livrabilelor, dar metodologie tehnică Bosch, nu proiecte europene."
   }
 ]
