@@ -1,5 +1,41 @@
 [
   {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
+    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
+    "company": "HALLO UP SRL",
+    "location": [
+      "BUCURESTI SECTORUL 1",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
+    "tags": [
+      "Fonduri Structurale",
+      "Cereri Finanțare"
+    ],
+    "matchPercentage": 95,
+    "reason": "Poziție de expert în fonduri structurale și de coeziune, cu studii superioare și sub 3 ani experiență, potrivire directă cu monitorizarea proiectelor și scrierea cererilor."
+  },
+  {
+    "url": "https://multijobs.ro/job/consultant-fonduri-europene-bucuresti-hybrid/5781",
+    "title": "Consultant Fonduri Europene – București, Hybrid",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Bucuresti",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T11:13:18Z",
+    "status": "tested",
+    "tags": [
+      "Fonduri Europene",
+      "Cereri Finanțare"
+    ],
+    "matchPercentage": 88,
+    "reason": "Consultant în accesarea fondurilor europene, rol de specialitate la nivel junior/mid care folosește direct scrierea cererilor de finanțare și consultanța în finanțări."
+  },
+  {
     "url": "https://multijobs.ro/job/consultanta-fonduri-europene/342",
     "title": "consultanta fonduri europene",
     "company": "JUNIOR GROUP SRL",
@@ -11,11 +47,11 @@
     "date": "2026-11-17T10:30:51Z",
     "status": "tested",
     "tags": [
-      "fonduri europene",
-      "cereri finanțare"
+      "Fonduri Europene",
+      "Management Proiect"
     ],
     "matchPercentage": 85,
-    "reason": "Consultanța în fonduri europene folosește direct competențele de accesare și scriere a cererilor de finanțare, fără cerințe senior."
+    "reason": "Consultanță pe fonduri europene, domeniu care corespunde direct competențelor de accesare a finanțării și management de proiect european."
   },
   {
     "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
@@ -29,11 +65,29 @@
     "date": "2026-11-17T09:28:12Z",
     "status": "tested",
     "tags": [
-      "fonduri europene",
-      "management proiect"
+      "Fonduri Europene",
+      "Cereri Finanțare"
     ],
-    "matchPercentage": 85,
-    "reason": "Varianta Junior de consultant fonduri europene corespunde competențelor de elaborare a cererilor de finanțare și management de proiect european."
+    "matchPercentage": 82,
+    "reason": "Poziție care acceptă explicit nivelul junior în consultanță pe fonduri europene, fără cerință de experiență îndelungată."
+  },
+  {
+    "url": "https://multijobs.ro/job/expert-accesare-fonduri-europene/2188",
+    "title": "Expert accesare Fonduri Europene",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Resita",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T09:05:29Z",
+    "status": "tested",
+    "tags": [
+      "Fonduri Europene",
+      "Fonduri Structurale"
+    ],
+    "matchPercentage": 80,
+    "reason": "Expert în accesarea fondurilor europene, rol de specialitate de nivel mid, fără cerință de experiență senior îndelungată."
   },
   {
     "url": "https://multijobs.ro/job/auditor-public-internin-baza-legii-nr-672-2002/5860",
@@ -48,64 +102,10 @@
     "status": "tested",
     "tags": [
       "audit",
-      "administrație publică"
-    ],
-    "matchPercentage": 85,
-    "reason": "Auditul public intern conform Legii 672/2002 folosește direct competențele de audit, analiză bugetară și administrație publică, iar titlul nu indică un nivel senior."
-  },
-  {
-    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
-    "title": "Junior News Editor",
-    "company": "CROSS WORK S.R.L.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:02:07Z",
-    "status": "tested",
-    "tags": [
-      "analiză conținut",
-      "relații presă"
-    ],
-    "matchPercentage": 75,
-    "reason": "Rol junior de editor cu analiză de conținut, prelucrare de comunicate de presă și engleză C1, potrivit competențelor de jurnalism și comunicare."
-  },
-  {
-    "url": "https://multijobs.ro/job/flexible-internship-in-audit-support-services-cluj-napoca-hybrid/5504",
-    "title": "Flexible Internship in Audit Support Services – Cluj-Napoca, Hybrid",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:07:06Z",
-    "status": "tested",
-    "tags": [
-      "audit",
       "analiză bugetară"
     ],
-    "matchPercentage": 68,
-    "reason": "Stagiu de suport în audit, domeniu parțial acoperit de competența mea de analiză bugetară, dar fără componentă europeană."
-  },
-  {
-    "url": "https://everymatrix.teamtailor.com/jobs/8679989-trainee-tax-analyst",
-    "title": "Trainee Tax Analyst",
-    "company": "EVERYMATRIX SRL",
-    "location": [
-      "Bucuresti",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T15:01:32Z",
-    "status": "tested",
-    "tags": [
-      "drept fiscal european",
-      "analiză bugetară"
-    ],
-    "matchPercentage": 65,
-    "reason": "Trainee Tax Analyst: potențială legătură cu drept fiscal european și analiză bugetară în context internațional, nivel potrivit."
+    "matchPercentage": 78,
+    "reason": "Auditul public intern în administrație folosește direct auditul și analiza bugetară, la un nivel fără cerințe de senior."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration",
@@ -116,13 +116,31 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-22T14:23:45.965Z",
+    "date": "2026-11-23T17:47:51.138Z",
     "status": "scraped",
     "tags": [
-      "management proiect",
+      "planificare",
       "buget"
     ],
-    "matchPercentage": 63,
-    "reason": "Nivel de working student cu sarcini de urmărire a planurilor, bugetului și livrabilelor, dar metodologie tehnică Bosch, nu proiecte europene."
+    "matchPercentage": 68,
+    "reason": "Poziție de working student în administrare de proiecte cu planificare, buget, termene și raportare, nivel potrivit unui student."
+  },
+  {
+    "url": "https://multijobs.ro/job/asistent-relatii-publice-si-comunicare-studii-medii/5790",
+    "title": "ASISTENT RELATII PUBLICE SI COMUNICARE (STUDII MEDII)",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-17T13:08:35Z",
+    "status": "tested",
+    "tags": [
+      "comunicare instituțională",
+      "jurnalism"
+    ],
+    "matchPercentage": 65,
+    "reason": "Postul de asistent în relații publice și comunicare este entry-level și folosește direct comunicarea instituțională, deși nu are accent european sau internațional."
   }
 ]
