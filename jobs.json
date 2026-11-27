@@ -1,57 +1,21 @@
 [
   {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
-    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
-    "company": "HALLO UP SRL",
+    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
+    "title": "Junior News Editor",
+    "company": "CROSS WORK S.R.L.",
     "location": [
-      "BUCURESTI SECTORUL 1",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-16T13:11:14Z",
-    "status": "verified",
-    "tags": [
-      "fonduri structurale",
-      "coeziune"
-    ],
-    "matchPercentage": 88,
-    "reason": "Expert în accesarea fondurilor structurale și de coeziune, studii superioare și sub 3 ani experiență, potrivire directă cu monitorizarea și evaluarea proiectelor."
-  },
-  {
-    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
-    "title": "Consultant Fonduri Europene Junior/Senior Pitesti",
-    "company": "FORUM PROIECT INVEST SRL",
-    "location": [
-      "Pitești",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T09:28:12Z",
+    "date": "2026-11-17T10:02:07Z",
     "status": "tested",
     "tags": [
-      "accesare fonduri",
-      "cereri finanțare"
+      "Analiză conținut",
+      "Relații presă"
     ],
     "matchPercentage": 85,
-    "reason": "Consultant fonduri europene la nivel Junior, sarcini care folosesc direct accesarea finanțării și scrierea cererilor de finanțare."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3429294",
-    "title": "CONSILIER ADMINISTRATIA PUBLICA",
-    "company": "PRIMARIA DARABANI",
-    "location": [
-      "DARABANI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "administrație publică",
-      "planificare regională"
-    ],
-    "matchPercentage": 82,
-    "reason": "Consilier în administrația publică locală, fără experiență, potrivește direct domeniul guvernanței și planificării locale cu nivelul entry-level."
+    "reason": "Rol junior de editor cu analiză de conținut, prelucrare de comunicate de presă și engleză C1, exact în domeniul jurnalismului."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
@@ -61,7 +25,7 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-25T16:51:22.430Z",
+    "date": "2026-11-26T16:28:19.853Z",
     "status": "scraped",
     "tags": [
       "cercetare documentară",
@@ -71,22 +35,22 @@
     "reason": "Cercetarea socială pe teme politice, documentarea și redactarea rapoartelor corespund competențelor de cercetare documentară și analiză politică, iar nivelul de trainee e potrivit."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration",
-    "title": "Working Student – Technical Project Administration",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://multijobs.ro/job/auditor-public-internin-baza-legii-nr-672-2002/5860",
+    "title": "Auditor public intern(în baza legii nr. 672/2002)",
+    "company": "MULTIDATA MANAGEMENT S.R.L.",
     "location": [
-      "Cluj-Napoca",
+      "Bucuresti",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-25T17:00:02.313Z",
-    "status": "scraped",
+    "date": "2026-11-17T10:55:58Z",
+    "status": "tested",
     "tags": [
-      "management proiect",
+      "audit",
       "buget"
     ],
-    "matchPercentage": 76,
-    "reason": "Rolul de Working Student pe administrare de proiecte folosește direct planificarea, bugetul și termenele la nivel de student, într-un context tehnic nu european."
+    "matchPercentage": 75,
+    "reason": "Auditul public intern în baza Legii 672/2002 folosește direct competențe de audit și analiză bugetară în administrația publică, fără cerințe de nivel senior."
   },
   {
     "url": "https://everymatrix.teamtailor.com/jobs/8679989-trainee-tax-analyst",
@@ -107,6 +71,41 @@
     "reason": "Conformitatea fiscală internațională pentru entități din mai multe jurisdicții folosește parțial dreptul fiscal european și analiza bugetară, la nivel de trainee."
   },
   {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3429294",
+    "title": "CONSILIER ADMINISTRATIA PUBLICA",
+    "company": "PRIMARIA DARABANI",
+    "location": [
+      "DARABANI",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "administrație publică"
+    ],
+    "matchPercentage": 70,
+    "reason": "Poziție fără experiență în administrația publică locală, domeniu relevant, deși fișa postului nu precizează sarcini concrete."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration",
+    "title": "Working Student – Technical Project Administration",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "Cluj-Napoca",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-26T16:40:48.551Z",
+    "status": "scraped",
+    "tags": [
+      "planificare",
+      "buget"
+    ],
+    "matchPercentage": 68,
+    "reason": "Rol de working student în administrare de proiecte cu planificare, buget și raportare, domeniu parțial relevant și nivel potrivit."
+  },
+  {
     "url": "https://mediere.anofm.ro/app/module/mediere/job/3444263",
     "title": "REFERENT DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
     "company": "COMPANIA NATIONALA &quot;IMPRIMERIA NATIONALA&quot; SA",
@@ -118,47 +117,10 @@
     "date": "2026-11-16T12:59:33Z",
     "status": "verified",
     "tags": [
-      "administrație publică",
-      "redactare"
+      "administrație publică"
     ],
-    "matchPercentage": 70,
-    "reason": "Referent de specialitate în administrație publică la o companie de stat, cu sub 3 ani experiență, folosește direct competențe de administrație și redactare, deși sarcinile par mai degrabă generale."
-  },
-  {
-    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
-    "title": "Junior News Editor",
-    "company": "CROSS WORK S.R.L.",
-    "location": [
-      "Iași",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-17T10:02:07Z",
-    "status": "tested",
-    "tags": [
-      "analiză conținut",
-      "comunicare instituțională"
-    ],
-    "matchPercentage": 70,
-    "reason": "Poziție junior de editor cu redactare, analiză de conținut și lucrul cu comunicate de presă în engleză, domeniu înrudit cu jurnalismul, deși axat pe fintech și nu pe afaceri europene."
-  },
-  {
-    "url": "https://electrogrup.applytojob.com/apply/jobs/details/i85JQZTNPQ",
-    "title": "Project Controller (Constructii)",
-    "company": "ELECTROGRUP SA",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-25T16:56:50Z",
-    "status": "scraped",
-    "tags": [
-      "analiză bugetară",
-      "raportare"
-    ],
-    "matchPercentage": 66,
-    "reason": "Postul de Project Controller folosește analiza bugetară, verificarea documentelor și raportarea financiară la nivel de începător/mid, deși este în construcții, nu în proiecte europene."
+    "matchPercentage": 65,
+    "reason": "Nivel junior în administrație publică, domeniu parțial relevant, dar sarcinile nu sunt detaliate și nu apar competențe europene explicite."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163653151-junior-managers-program-controlling-area-timisoara",
@@ -169,32 +131,14 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-25T17:00:02.313Z",
+    "date": "2026-11-26T16:40:48.551Z",
     "status": "scraped",
-    "tags": [
-      "analiză bugetară",
-      "analiză statistică"
-    ],
-    "matchPercentage": 65,
-    "reason": "Programul junior de controlling folosește analiza bugetară și analiza datelor la nivel entry-level, deși contextul financiar corporatist nu este specific european."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3441538",
-    "title": "CONSILIER/EXPERT/INSPECTOR/REFERENT/ECONOMIST ÎN ECONOMIE GENERALA",
-    "company": "SPITALUL JUDETEAN DE URGENTA DR FOGOLYAN KRISTOF",
-    "location": [
-      "MUNICIPIUL SFANTU GHEORGHE",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
     "tags": [
       "analiză bugetară",
       "audit"
     ],
-    "matchPercentage": 65,
-    "reason": "Economist în economie generală la un spital, cu 0 ani experiență, valorifică parțial cunoștințele de analiză bugetară și audit, nivelul fiind potrivit."
+    "matchPercentage": 62,
+    "reason": "Program de trainee în controlling care folosește analiza bugetară, deși domeniul financiar-corporatist este doar parțial relevant."
   },
   {
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163692859-working-student-paralegal",
@@ -205,7 +149,7 @@
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-25T17:00:02.313Z",
+    "date": "2026-11-26T16:40:48.551Z",
     "status": "scraped",
     "tags": [
       "interpretare legislativă",
