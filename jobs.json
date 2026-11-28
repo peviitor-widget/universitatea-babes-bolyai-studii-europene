@@ -1,21 +1,21 @@
 [
   {
-    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
-    "title": "Junior News Editor",
-    "company": "CROSS WORK S.R.L.",
+    "url": "https://www.bestjobs.eu/loc-de-munca/consultant-fonduri-europene-junior-senior-pitesti-3",
+    "title": "Consultant Fonduri Europene Junior/Senior Pitesti",
+    "company": "FORUM PROIECT INVEST SRL",
     "location": [
-      "Iași",
+      "Pitești",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:02:07Z",
+    "date": "2026-11-17T09:28:12Z",
     "status": "tested",
     "tags": [
-      "Analiză conținut",
-      "Relații presă"
+      "fonduri europene",
+      "cereri finanțare"
     ],
-    "matchPercentage": 85,
-    "reason": "Rol junior de editor cu analiză de conținut, prelucrare de comunicate de presă și engleză C1, exact în domeniul jurnalismului."
+    "matchPercentage": 90,
+    "reason": "Poziție de consultant fonduri europene la nivel junior, cu sarcini care vizează direct accesarea finanțării europene și managementul proiectelor."
   },
   {
     "url": "https://yougov.wd103.myworkdayjobs.com/en-US/YouGov_External_Careers/job/Zurich-Switzerland/Trainee-in-der-Sozialforschung--befristet-auf-1-Jahr-_JR0880",
@@ -25,32 +25,68 @@
       "România"
     ],
     "salary": null,
-    "date": "2026-11-26T16:28:19.853Z",
+    "date": "2026-11-27T16:13:31.413Z",
     "status": "scraped",
     "tags": [
       "cercetare documentară",
-      "analiză politică"
+      "redactare rapoarte"
     ],
-    "matchPercentage": 78,
-    "reason": "Cercetarea socială pe teme politice, documentarea și redactarea rapoartelor corespund competențelor de cercetare documentară și analiză politică, iar nivelul de trainee e potrivit."
+    "matchPercentage": 85,
+    "reason": "Stagiu în cercetare socială cu teme politice, folosește direct cercetarea documentară, redactarea rapoartelor și analiza statistică."
   },
   {
-    "url": "https://multijobs.ro/job/auditor-public-internin-baza-legii-nr-672-2002/5860",
-    "title": "Auditor public intern(în baza legii nr. 672/2002)",
-    "company": "MULTIDATA MANAGEMENT S.R.L.",
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3365515",
+    "title": "EXPERT ACCESARE FONDURI STRUCTURALE SI DE COEZIUNE EUROPENE",
+    "company": "HALLO UP SRL",
     "location": [
-      "Bucuresti",
+      "BUCURESTI SECTORUL 1",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-17T10:55:58Z",
-    "status": "tested",
+    "date": "2026-11-16T13:11:14Z",
+    "status": "verified",
     "tags": [
-      "audit",
-      "buget"
+      "fonduri structurale",
+      "cereri finanțare"
     ],
-    "matchPercentage": 75,
-    "reason": "Auditul public intern în baza Legii 672/2002 folosește direct competențe de audit și analiză bugetară în administrația publică, fără cerințe de nivel senior."
+    "matchPercentage": 85,
+    "reason": "Expert în accesarea fondurilor structurale și de coeziune, cu sub 3 ani experiență, domeniu care corespunde direct competențelor de consultanță și scriere a cererilor de finanțare."
+  },
+  {
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163692859-working-student-paralegal",
+    "title": "Working Student - Paralegal",
+    "company": "ROBERT BOSCH SRL",
+    "location": [
+      "București",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-27T16:26:58.831Z",
+    "status": "scraped",
+    "tags": [
+      "drept UE",
+      "interpretare legislativă"
+    ],
+    "matchPercentage": 65,
+    "reason": "Stagiu juridic care folosește parțial competențele de interpretare legislativă, inclusiv drept UE, la nivel entry-level."
+  },
+  {
+    "url": "https://mediere.anofm.ro/app/module/mediere/job/3444263",
+    "title": "REFERENT DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
+    "company": "COMPANIA NATIONALA &quot;IMPRIMERIA NATIONALA&quot; SA",
+    "location": [
+      "BUCURESTI SECTORUL 6",
+      "Romania"
+    ],
+    "salary": null,
+    "date": "2026-11-16T12:59:33Z",
+    "status": "verified",
+    "tags": [
+      "elaborare documente",
+      "interpretare legislativă"
+    ],
+    "matchPercentage": 65,
+    "reason": "Referent de specialitate în administrația publică cu sub 3 ani experiență, folosește elaborarea de documente și interpretarea legislativă, deși fără componentă europeană explicită."
   },
   {
     "url": "https://everymatrix.teamtailor.com/jobs/8679989-trainee-tax-analyst",
@@ -65,97 +101,27 @@
     "status": "tested",
     "tags": [
       "drept fiscal",
-      "analiză bugetară"
-    ],
-    "matchPercentage": 70,
-    "reason": "Conformitatea fiscală internațională pentru entități din mai multe jurisdicții folosește parțial dreptul fiscal european și analiza bugetară, la nivel de trainee."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3429294",
-    "title": "CONSILIER ADMINISTRATIA PUBLICA",
-    "company": "PRIMARIA DARABANI",
-    "location": [
-      "DARABANI",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "administrație publică"
-    ],
-    "matchPercentage": 70,
-    "reason": "Poziție fără experiență în administrația publică locală, domeniu relevant, deși fișa postului nu precizează sarcini concrete."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162666109-working-student-technical-project-administration",
-    "title": "Working Student – Technical Project Administration",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Cluj-Napoca",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
-    "status": "scraped",
-    "tags": [
-      "planificare",
-      "buget"
-    ],
-    "matchPercentage": 68,
-    "reason": "Rol de working student în administrare de proiecte cu planificare, buget și raportare, domeniu parțial relevant și nivel potrivit."
-  },
-  {
-    "url": "https://mediere.anofm.ro/app/module/mediere/job/3444263",
-    "title": "REFERENT DE SPECIALITATE ÎN ADMINISTRATIA PUBLICA",
-    "company": "COMPANIA NATIONALA &quot;IMPRIMERIA NATIONALA&quot; SA",
-    "location": [
-      "BUCURESTI SECTORUL 6",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-16T12:59:33Z",
-    "status": "verified",
-    "tags": [
-      "administrație publică"
-    ],
-    "matchPercentage": 65,
-    "reason": "Nivel junior în administrație publică, domeniu parțial relevant, dar sarcinile nu sunt detaliate și nu apar competențe europene explicite."
-  },
-  {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163653151-junior-managers-program-controlling-area-timisoara",
-    "title": "Junior Managers Program | Controlling Area Timisoara",
-    "company": "ROBERT BOSCH SRL",
-    "location": [
-      "Timișoara",
-      "Romania"
-    ],
-    "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
-    "status": "scraped",
-    "tags": [
-      "analiză bugetară",
       "audit"
     ],
-    "matchPercentage": 62,
-    "reason": "Program de trainee în controlling care folosește analiza bugetară, deși domeniul financiar-corporatist este doar parțial relevant."
+    "matchPercentage": 60,
+    "reason": "Analiză fiscală de conformitate pentru entități de grup, folosește parțial cunoștințele de drept fiscal european la nivel trainee."
   },
   {
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163692859-working-student-paralegal",
-    "title": "Working Student - Paralegal",
-    "company": "ROBERT BOSCH SRL",
+    "url": "https://crosswork.sincron.biz/jobs/details/741/junior-news-editor",
+    "title": "Junior News Editor",
+    "company": "CROSS WORK S.R.L.",
     "location": [
-      "București",
+      "Iași",
       "Romania"
     ],
     "salary": null,
-    "date": "2026-11-26T16:40:48.551Z",
-    "status": "scraped",
+    "date": "2026-11-17T10:02:07Z",
+    "status": "tested",
     "tags": [
-      "interpretare legislativă",
-      "drept UE"
+      "comunicare instituțională",
+      "limba engleză"
     ],
-    "matchPercentage": 62,
-    "reason": "Stagiul de paralegal pentru o corporație multinațională cu acoperire România-Bulgaria folosește parțial interpretarea legislativă, dar vizează dreptul corporatist, nu politici publice UE."
+    "matchPercentage": 60,
+    "reason": "Rol junior de editor care folosește analiză de conținut, comunicate de presă și engleză C1, potrivire parțială deși subiectul este fintech."
   }
 ]
